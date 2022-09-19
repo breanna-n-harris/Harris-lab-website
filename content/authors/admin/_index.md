@@ -15,13 +15,13 @@ social:
   - display:
       header: false
     link: https://twitter.com/PhysIsPhun
-    icon_pack: ai
+    icon_pack: fab
     icon: twitter
   - display:
       header: false
     link: mailto:breanna.n.harris@ttu.edu
-    icon_pack: ai
-    icon: email
+    icon_pack: far
+    icon: envelope
 organizations:
   - name: Texas Tech University
     url: https://www.depts.ttu.edu/biology/
