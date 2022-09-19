@@ -8,36 +8,32 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:test@example.org
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
+  - display:
+      header: false
+    link: https://scholar.google.com/citations?user=Hv8jp00AAAAJ&hl=en
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    icon: google-scholar
+  - display:
+      header: false
+    link: https://twitter.com/PhysIsPhun
+    icon_pack: ai
+    icon: twitter
+  - display:
+      header: false
+    link: mailto:breanna.n.harris@ttu.edu
+    icon_pack: ai
+    icon: email
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: Texas Tech University
+    url: https://www.depts.ttu.edu/biology/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: "Zool 2404: Anatomy & Physiology II"
+      institution: Texas Tech University
 email: ""
 superuser: true
 user_groups:
-  - Researchers
+  - PI
 highlight_name: false
 ---
 A﻿dd information about me here
