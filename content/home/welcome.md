@@ -10,7 +10,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: 2022-09-03-14.52.42.jpg
+    image: ""
 ---
 <br>
 
