@@ -20,7 +20,7 @@ social:
   - display:
       header: false
     link: mailto:breanna.n.harris@ttu.edu
-    icon_pack: far
+    icon_pack: fas
     icon: envelope
 organizations:
   - name: Texas Tech University
