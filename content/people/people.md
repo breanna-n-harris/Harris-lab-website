@@ -19,8 +19,8 @@ content:
     - Principal Investigators
     - Researchers
     - Grad Students
-    - Administration
-    - Visitors
+    - Undergraduate Students
+    - Collaborators
     - Alumni
 design:
   show_interests: false
