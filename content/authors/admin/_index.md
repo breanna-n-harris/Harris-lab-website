@@ -36,7 +36,7 @@ email: ""
 superuser: true
 user_groups:
   - Researchers
-  - PI
+  - Principal Investigators
 highlight_name: false
 ---
-A﻿dd information about me here
+Add information about me here
