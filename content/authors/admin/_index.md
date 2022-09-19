@@ -5,9 +5,7 @@ avatar_filename: 2021_headshot_harris.jpg
 bio: I am a behavioral endocrinologist studying how organisms physiologically
   and behaviorally respond to and cope with challenges (stressors).
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Hormones
 social:
   - display:
       header: false
