@@ -33,6 +33,7 @@ email: ""
 superuser: true
 user_groups:
   - Researchers
+  - PI
 highlight_name: false
 ---
 A﻿dd information about me here
