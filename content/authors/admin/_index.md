@@ -6,9 +6,6 @@ bio: I am a behavioral endocrinologist studying how organisms physiologically
   and behaviorally respond to and cope with challenges (stressors).
 interests:
   - Hormones
-  - behavior
-  - stress
-  - trade-offs
 social:
   - display:
       header: false
@@ -32,6 +29,9 @@ education:
   courses:
     - course: "Zool 2404: Anatomy & Physiology II"
       institution: Texas Tech University
+    - course: Ph.D. - Evolution, Ecology, and Organismal Biology
+      institution: University of California, Riverside
+      year: 2010
 email: ""
 superuser: true
 user_groups:
@@ -39,4 +39,4 @@ user_groups:
   - PI
 highlight_name: false
 ---
-Add information about me here
+A﻿dd information about me here
