@@ -31,7 +31,7 @@ education:
       institution: Texas Tech University
     - course: Ph.D. - Evolution, Ecology, and Organismal Biology
       institution: University of California, Riverside
-      year: 2010
+      year: 2012
 email: ""
 superuser: true
 user_groups:
