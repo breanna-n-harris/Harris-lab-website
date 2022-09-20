@@ -29,7 +29,7 @@ social:
   - display:
       header: false
     link: https://orcid.org/0000-0002-2239-0914
-    icon_pack: ai
+    icon_pack: fab
     icon: orcid
 organizations:
   - name: Texas Tech University
