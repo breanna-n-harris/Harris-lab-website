@@ -20,7 +20,6 @@ content:
     - Researchers
     - Grad Students
     - Undergraduate Students
-    - Collaborators
     - Alumni
 design:
   show_interests: false
