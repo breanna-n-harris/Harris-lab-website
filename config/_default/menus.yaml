@@ -16,15 +16,18 @@ main:
   - name: People
     url: people
     weight: 40
+  - name: Projects
+    url: projects
+    weight: 50
    - name: Prospective Students
     url: ProspectiveStudents
-    weight: 50
+    weight: 60
   - name: Publications
     url: publication
-    weight: 60
+    weight: 70
   - name: Presentations & Media
     url: event
-    weight: 70
+    weight: 80
   - name: Contact
     url: contact
-    weight: 80
+    weight: 90
