@@ -14,5 +14,7 @@ education:
     - course: B.S.
       institution: Texas Tech University
 superuser: false
+user_groups:
+  - Researchers
 ---
 *A﻿dd information here*
