@@ -14,7 +14,7 @@ design:
 ---
 <br>
 
-Welcome to the **Harris Lab** at Texas Tech University! We study the interaction between hormones and behaviors in a variety of critters.
+Welcome to the **Harris Lab** at Texas Tech University! We study the interaction among hormones, behaviors, and stressors in a variety of critters.
 
 Broadly, my program of research addresses how stressors influence organismal physiology and behavior. More specifically, I focus on the behavioral, physiological, and fitness implications of plasticity in the hypothalamic-pituitary-adrenal (HPA) axis and associated physiological systems to address both basic and applied research questions. The HPA axis is evolutionarily conserved, and its hormones are critical for survival. These hormones (e.g., cortisol, corticosterone, corticotropin-releasing factor) play vital roles in many physiological and behavioral processes, and influence reproduction, immune system regulation, memory and cognition, emotional processing, feeding, and cardiovascular function. Many human diseases and psychopathologies (e.g., PTSD, anxiety disorders, depression, obesity, diabetes, Alzheimer’s Disease, Parkinson’s Disease) present with HPA axis dysregulation for unknown reasons and by unknown mechanisms.  Using animal and human studies, I aim to understand how stressor-related responses, at various biological levels of analysis, correspond to differences in health, behavior, and evolutionary fitness. 
 
