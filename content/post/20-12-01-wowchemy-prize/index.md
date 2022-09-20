@@ -1,14 +1,39 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: Now Accepting Graduate Students!
+date: 2022-09-19T22:17:01.714Z
+image:
+  filename: featured.jpg
 ---
-
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+I﻿nterested? Awesome! Click below to find out more!
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+<!--StartFragment-->
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+*What you can expect*: vibrant new lab with start up funds – including summer support; rigorous and exciting science; intellectual freedom; equitable and inclusive leadership; active mentoring and support of multiple career paths.
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+<!--StartFragment-->
+
+My mentoring style is flexible, I am more hands-on initially and then transition to a more hands-off approach as students make progress and gain experience. I also work with each student to tailor a mentoring regimen that fits their career goals. I have a Harris Lab Expectations and Handbook (to see handbook, go here: <https://tinyurl.com/59f4sadk>) which provides explicit information for students and details what they can expect from me; we discuss and then all students sign this upon entering my lab. This handbook is a living document and lab group discussion is used to edit and update this document as needed. I have recently updated the handbook with a greater focus on inclusivity, equity, and antiracist practice, as recommended by various published articles (e.g., [Chaudhary, V. B., & Berhe, A. A. (2020). Ten simple rules for building an antiracist lab](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008210)).
+
+<!--EndFragment-->
+
+*What I’m looking for*: motivated, inquisitive, critically-thinking students with an interest in stress physiology, behavior, endocrinology, & ecology and evolution.
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+I﻿f you'd like to start a conversation to determine if we would be a good match, please email the below documents to me (breanna.n.harris@ttu.edu). 
+
+1. Cover letter containing:
+
+* •Your educational experiences and/or background, including GPA (adjusted to a 4.0 scale) and what program you are pursuing at TTU (see M.S. and Ph.D. options [here](https://www.depts.ttu.edu/biology/academics/graduate/programs/); 1-2 paragraphs)
+* •Why you chose to contact me/why you are interested in my lab (1-2 paragraphs)
+* •Your research interests and ideas (the more specific you can be, the better; 1-2 paragraphs)
+* •A description of your included writing sample (e.g., if the writing is from a class essay, provide enough detail for me to understand the context of the assignment) and why you chose that writing sample.
+
+2. CV
+3. A writing sample of your choosing
+
+<!--EndFragment-->
