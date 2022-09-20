@@ -6,6 +6,10 @@ bio: I am a behavioral endocrinologist studying how organisms physiologically
   and behaviorally respond to and cope with challenges (stressors).
 interests:
   - Hormones
+  - Behavior
+  - Tradeoffs
+  - Stress
+  - Reproduction
 social:
   - display:
       header: false
