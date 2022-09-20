@@ -20,7 +20,7 @@ education:
       year: ""
 email: ""
 user_groups:
-  - UndergraduateStudents
+  - Undergraduate Students
   - Researchers
 ---
-*A﻿dd information here*
+*Add information here*
