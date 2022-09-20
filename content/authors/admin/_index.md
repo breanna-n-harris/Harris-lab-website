@@ -26,6 +26,11 @@ social:
     link: mailto:breanna.n.harris@ttu.edu
     icon_pack: fas
     icon: envelope
+  - display:
+      header: false
+    link: https://orcid.org/0000-0002-2239-0914
+    icon_pack: ai
+    icon: orcid
 organizations:
   - name: Texas Tech University
     url: https://www.depts.ttu.edu/biology/
