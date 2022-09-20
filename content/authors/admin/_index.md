@@ -30,6 +30,9 @@ organizations:
   - name: Texas Tech University
     url: https://www.depts.ttu.edu/biology/
 education:
+- course: Ph.D. - Evolution, Ecology, and Organismal Biology
+      institution: University of California, Riverside
+      year: 2012
   courses:
     - course: "Zool 2404: Anatomy & Physiology II"
       institution: Texas Tech University
