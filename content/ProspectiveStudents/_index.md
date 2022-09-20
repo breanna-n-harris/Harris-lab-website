@@ -14,7 +14,7 @@ banner:
 
 My mentoring style is flexible, I am more hands-on initially and then transition to a more hands-off approach as students make progress and gain experience. I also work with each student to tailor a mentoring regimen that fits their career goals. I have a Harris Lab Expectations and Handbook (to see handbook, go here: <https://tinyurl.com/59f4sadk>) which provides explicit information for students and details what they can expect from me; we discuss and then all students sign this upon entering my lab. This handbook is a living document and lab group discussion is used to edit and update this document as needed. I have recently updated the handbook with a greater focus on inclusivity, equity, and antiracist practice, as recommended by various published articles (e.g., [Chaudhary, V. B., & Berhe, A. A. (2020). Ten simple rules for building an antiracist lab](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008210)).
 
-*What I’m looking for*: motivated, inquisitive, critically-thinking students with an interest in stress physiology, behavior, endocrinology, & ecology and evolution.
+* What I’m looking for*: motivated, inquisitive, critically-thinking students with an interest in stress physiology, behavior, endocrinology, & ecology and evolution.
 
 
 If you'd like to start a conversation to determine if we would be a good match, please email the below documents to me (breanna.n.harris@ttu.edu). 
