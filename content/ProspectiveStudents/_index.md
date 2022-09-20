@@ -6,9 +6,7 @@ view: compact
 
 # Optional header image (relative to `assets/media/` folder).
 banner:
-  caption: 'Interested? Awesome! Click below to find out more!
-
-
+  caption: "Interested? Awesome! Click below to find out more!"
   image: 'wordcloud1.jpg'
 ---
 
