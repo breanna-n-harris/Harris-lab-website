@@ -7,7 +7,7 @@ authors:
   - 吳恩達
 title: "Ethan Lumongsud "
 role: Texas Tech University Honors College|Department of Biological Sciences
-bio: Undergraduate researcher since 2021
+bio: Undergraduate researcher since 2021 - frog team
 interests: []
 social:
   - icon: envelope
