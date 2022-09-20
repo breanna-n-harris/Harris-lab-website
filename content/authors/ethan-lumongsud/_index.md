@@ -4,7 +4,7 @@ organizations:
     url: ""
 superuser: false
 authors:
-  - 吳恩達
+  - ethan-lumongsud
 title: "Ethan Lumongsud "
 role: Texas Tech University Honors College|Department of Biological Sciences
 bio: Undergraduate researcher since 2021 - frog team
