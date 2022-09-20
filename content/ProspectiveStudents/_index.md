@@ -6,7 +6,11 @@ view: compact
 
 # Optional header image (relative to `assets/media/` folder).
 banner:
-  caption: 'I﻿nterested? Awesome! Click below to find out more!
+  caption: 'Interested? Awesome! Click below to find out more!
+
+
+  image: 'wordcloud1.jpg'
+---
 
 <!--more-->
 
@@ -28,7 +32,3 @@ If you'd like to start a conversation to determine if we would be a good match, 
 
 2. CV
 3. A writing sample of your choosing
-
-  image: 'wordcloud1.jpg'
----
-
