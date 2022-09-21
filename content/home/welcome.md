@@ -12,7 +12,6 @@ design:
   background:
     image: ""
 ---
-![]()
 
 <br>
 
