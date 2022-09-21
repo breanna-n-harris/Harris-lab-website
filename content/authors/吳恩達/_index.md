@@ -4,7 +4,7 @@ organizations:
     url: ""
 superuser: false
 authors:
-  - 吳恩達
+  - m.-ghufran-murtuza
 title: M. Ghufran Murtuza
 role: Texas Tech University Honors College Mircobiology|Department of Biological
   Sciences
