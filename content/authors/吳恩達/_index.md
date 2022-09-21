@@ -22,7 +22,6 @@ education:
       year: ""
 email: ""
 user_groups:
-  - UndergraduateStudent
-  - Researchers
+  - Undergraduate Students
 ---
 *A﻿dd information here*
