@@ -17,8 +17,8 @@ abstract: 'This was an NSF funded, interactive, multidisciplinary, intimate, han
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-05-22T00:00:00Z'
-date_end: '2022-05-25T00:00:00Z'
+date: '2022-05-22'
+date_end: '2022-05-25'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
