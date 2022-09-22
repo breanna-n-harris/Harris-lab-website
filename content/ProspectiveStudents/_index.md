@@ -48,3 +48,5 @@ Please note that students can work in my lab under a variety of mechanisms, incl
   * Part of other grants/funding mechanisms. 
 
 Please note, I typically require at least a 1-yr commitment and 6-15 hrs/week from students when they join the lab. 
+
+![wordcloud1](https://user-images.githubusercontent.com/58483740/191638475-3043f726-cf84-4949-adc1-ccc4c2808364.jpg)
