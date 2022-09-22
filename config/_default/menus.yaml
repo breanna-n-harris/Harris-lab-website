@@ -25,8 +25,8 @@ main:
   - name: Teaching
     url: teaching
     weight: 80
-  - name: Presentations & Media
-    url: event
+  - name: DEI
+    url: dei
     weight: 90
   - name: Contact
     url: contact
