@@ -2,7 +2,7 @@
 title: WhyNotMeSTEM Conference
 
 event: WhyNotMeSTEM Conference
-event_url: [https://example.org](https://www.depts.ttu.edu/stem/whynotmestem/index.php)
+event_url: [https://www.depts.ttu.edu/stem/whynotmestem/index.php]
 
 location: Overton Hotel
 address:
