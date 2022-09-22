@@ -1,14 +1,8 @@
 ---
 title: Prospective Students
 
-# Listing view
-view: compact
+![wordcloud1](https://user-images.githubusercontent.com/58483740/191637801-ef36fad4-7dcd-46f9-9a93-5d5c4d1a2bd3.jpg)
 
-# Optional header image (relative to `assets/media/` folder).
-banner:
-  caption: "Interested? Awesome! Click below to find out more!"
-  image: 
-      filename:'wordcloud1.jpg'
 ---
 
 <!--more-->
