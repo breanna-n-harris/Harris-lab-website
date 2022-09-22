@@ -28,10 +28,10 @@ I﻿f you'd like to start a conversation to determine if we would be a good matc
 
 1. Cover letter containing:
 
-  •Your educational experiences and/or background, including GPA (adjusted to a 4.0 scale) and what program you are pursuing at TTU (see M.S. and Ph.D. options [here](https://www.depts.ttu.edu/biology/academics/graduate/programs/); 1-2 paragraphs)
-  •Why you chose to contact me/why you are interested in my lab (1-2 paragraphs)
-  •Your research interests and ideas (the more specific you can be, the better; 1-2 paragraphs)
-  •A description of your included writing sample (e.g., if the writing is from a class essay, provide enough detail for me to understand the context of the assignment) and why you chose that writing sample.
+  *•Your educational experiences and/or background, including GPA (adjusted to a 4.0 scale) and what program you are pursuing at TTU (see M.S. and Ph.D. options [here](https://www.depts.ttu.edu/biology/academics/graduate/programs/); 1-2 paragraphs)
+  *•Why you chose to contact me/why you are interested in my lab (1-2 paragraphs)
+  *•Your research interests and ideas (the more specific you can be, the better; 1-2 paragraphs)
+  *•A description of your included writing sample (e.g., if the writing is from a class essay, provide enough detail for me to understand the context of the assignment) and why you chose that writing sample.
 
 2. CV
 3. A writing sample of your choosing
