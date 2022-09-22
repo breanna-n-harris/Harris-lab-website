@@ -1,6 +1,6 @@
 ---
-title: template
-date: 2020-12-02
+title: New lab pulication!
+date: 2022-09-21
 image:
   focal_point: top
 ---
