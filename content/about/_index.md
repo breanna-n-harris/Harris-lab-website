@@ -17,7 +17,7 @@ Both questions are important for understanding animal life histories, ecological
 
 For more information, see the [Projects](/projects) page
 
-<u>Exciting outstanding quesitons in the field of stress physiology and glucocorticoid (GC) functions:<u>
+**Exciting outstanding quesitons in the field of stress physiology and glucocorticoid (GC) functions:**
 
 1. What is a "good" stress response?
 
