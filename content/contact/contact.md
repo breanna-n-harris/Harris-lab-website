@@ -26,7 +26,7 @@ content:
     country_code: US
   coordinates:
     latitude: '33.5851'
-    longitude: '101.8781'
+    longitude: '-101.8781'
   directions: My office is located in Biological Sciences, room 410; my lab is located in ESB II, suite 117.
   office_hours:
     - 'by appointment'
