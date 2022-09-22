@@ -6,7 +6,7 @@ title: Prospective Students
 **Graduate Students**
 
 *Texas Tech and DBS*
-More information about applying to grad school at Texas Tech can be found on the [TTU Biology Website](http://www.depts.ttu.edu/biology/Graduate/graduatestudies.php). Students will apply to the graduate school and then the application will be forwarded to the Department of Biological Sciences. Faculty must agree to sponor or support an application when it comes to our department, so it is important to discuss opportunities and projects with your potential gradutate mentor. There is a fee to apply to TTU Grad School, if this is a concern, talk with Dr. Harris. The Department of Biological Sciences supports graduate students through Teaching Assistant positions (TAs) during the fall and spring semesters. These TA positions are guaranteed for Master’s students for 3 years and for Doctoral students for 5 years. Summer funding and additional pay bumps are contingent on external grant support, and in some cases fellowships. 
+More information about applying to grad school in the Department of Biological Sciences at Texas Tech can be found on the [TTU Biology Website](http://www.depts.ttu.edu/biology/Graduate/graduatestudies.php). Students will apply to the [graduate school](https://www.depts.ttu.edu/gradschool/admissions/howtoapply.php) and then the application will be forwarded to the Department of Biological Sciences. Faculty must agree to sponor or support an application when it comes to our department, so it is important to discuss opportunities and projects with your potential gradutate mentor. There is a fee to apply to TTU Grad School, if this is a concern, talk with Dr. Harris. The Department of Biological Sciences supports graduate students through Teaching Assistant positions (TAs) during the fall and spring semesters. These TA positions are guaranteed for Master’s students for 3 years and for Doctoral students for 5 years. Summer funding and additional pay bumps are contingent on external grant support, and in some cases fellowships. 
 
 Graduate students are encouraged to apply before December 1 to be eligible for several internal fellowships to supplement the TA stipend.
 
@@ -22,7 +22,7 @@ If you'd like to start a conversation to determine if we would be a good match, 
 
 1. Cover letter containing:
 
-  * Your educational experiences and/or background, including GPA (adjusted to a 4.0 scale) and what program you are pursuing at TTU (see M.S. and Ph.D. options [here]  (https://www.depts.ttu.edu/biology/academics/graduate/programs/); 1-2 paragraphs)
+  * Your educational experiences and/or background, including GPA (adjusted to a 4.0 scale) and what program you are pursuing at TTU (see M.S. and Ph.D. options [here](https://www.depts.ttu.edu/biology/academics/graduate/programs/); 1-2 paragraphs)
   * Why you chose to contact me/why you are interested in my lab (1-2 paragraphs)
   * Your research interests and ideas (the more specific you can be, the better; 1-2 paragraphs)
   * A description of your included writing sample (e.g., if the writing is from a class essay, provide enough detail for me to understand the context of the        assignment) and why you chose that writing sample.
