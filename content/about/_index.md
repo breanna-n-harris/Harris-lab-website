@@ -15,3 +15,4 @@ Both questions are important for understanding animal life histories, ecological
 
 ![centralquestions](https://user-images.githubusercontent.com/58483740/191635702-d4bbf6d1-a4d1-4f05-8a9c-a5d984c9ac8a.jpg)
 
+For more information, see the [Projects](/projects) page
