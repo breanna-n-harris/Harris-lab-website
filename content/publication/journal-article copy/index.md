@@ -26,11 +26,7 @@ abstract: Alzheimer’s disease (AD) is a progressive, dementing, whole-body dis
 
 
 # Summary. An optional shortened abstract.
-summary: - Consistent with glucocorticoid cascade hypothesis, baseline cort increased with age.
-- Overall, tg mice had higher post-stressor, but not baseline, cort than non-tg mice.
-- Across genotypes, females had higher (baseline and post-stressor) cort than males.
-- Tg females had higher Aβ and showed more anxiety-like behavior than tg males.
-- No robust correlations, suggesting outcomes are not related on the individual level.
+summary: Consistent with glucocorticoid cascade hypothesis, baseline cort increased with age. Overall, tg mice had higher post-stressor, but not baseline, cort than non-tg mice. Across genotypes, females had higher (baseline and post-stressor) cort than males. Tg females had higher Aβ and showed more anxiety-like behavior than tg males. No robust correlations, suggesting outcomes are not related on the individual level.
 
 tags:
   - Source Themes
