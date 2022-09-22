@@ -15,9 +15,9 @@ banner:
 **Graduate Students**
 
 *Texas Tech and DBS*
-More information about applying to grad school at Texas Tech can be found on the [TTU Biology Website] (http://www.depts.ttu.edu/biology/Graduate/graduatestudies.php). Students will apply to the graduate school and then the application will be forwarded to the Department of Biological Sciences. There is a fee to apply, if this is a concern, talk with Dr. Harris. The Department of Biological Sciences supports graduate students through Teaching Assistant positions (TAs) during the fall and spring semesters. These TA positions are guaranteed for Master’s students for 3 years and for Doctoral students for 5 years. Summer funding and additional pay bumps are contingent on external grant support, and in some cases fellowships. 
+More information about applying to grad school at Texas Tech can be found on the [TTU Biology Website](http://www.depts.ttu.edu/biology/Graduate/graduatestudies.php). Students will apply to the graduate school and then the application will be forwarded to the Department of Biological Sciences. Faculty must agree to sponor or support an application when it comes to our department, so it is important to discuss opportunities and projects with your potential gradutate mentor. There is a fee to apply to TTU Grad School, if this is a concern, talk with Dr. Harris. The Department of Biological Sciences supports graduate students through Teaching Assistant positions (TAs) during the fall and spring semesters. These TA positions are guaranteed for Master’s students for 3 years and for Doctoral students for 5 years. Summer funding and additional pay bumps are contingent on external grant support, and in some cases fellowships. 
 
-Graduate students are encouraged to apply before December 1 to be eligible for several internal fellowships to supplement the TA stipend. I am also happy to discuss sponsoring Graduate Research Fellowship Program students or Ford Fellowship applicants.
+Graduate students are encouraged to apply before December 1 to be eligible for several internal fellowships to supplement the TA stipend.
 
 *Harris Lab*
 
