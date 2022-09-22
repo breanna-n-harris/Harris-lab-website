@@ -15,6 +15,6 @@ education:
       institution: Texas Tech University
 superuser: false
 user_groups:
-  - Researchers
+  - Undergraduate Students
 ---
 *A﻿dd information here*
