@@ -27,9 +27,9 @@ Asai, D. J. (2020). Race matters. Cell, 181(4), 754-757. [link](https://www.scie
 
 Cardel, M.I., Dhurandhar, E., Yarar-Fisher, C., Foster, M., Hidalgo, B., McClure, L.A., Pagoto, S., Brown, N., Pekmezi, D., Sharafeldin, N. and Willig, A.L., 2020. Turning chutes into ladders for women faculty: A review and roadmap for equity in academia. Journal of Women's Health, 29(5), 721-733. [link](https://www.liebertpub.com/doi/abs/10.1089/JWH.2019.8027) 
 
-June 14, 2020. North (2020). An open letter to the EEB community.[link](https://medium.com/@solonorthrowan/an-open-letter-to-the-eeb-community-7bd89330e554)
+June 14, 2020. North (2020). An open letter to the EEB community. [link](https://medium.com/@solonorthrowan/an-open-letter-to-the-eeb-community-7bd89330e554)
 
-2019. Holman, Key and Kreitzer (2019). Evidence of Bias in Standard Evaluations of Teaching. [link](http://www.rebeccakreitzer.com/bias/) 
+Holman, Key and Kreitzer (2019). Evidence of Bias in Standard Evaluations of Teaching. [link](http://www.rebeccakreitzer.com/bias/) 
 
 Asplund, M., & Welle, C. G. (2018). Advancing science: How bias holds us back. Neuron, 99(4), 635-639. [link](https://www.sciencedirect.com/science/article/pii/S0896627318306433) 
 
@@ -53,4 +53,6 @@ Hidden Brain - How They See Us [link](https://hiddenbrain.org/podcast/how-they-s
 
 Radiolab - G [link](https://radiolab.org/series/radiolab-presents-g)
 
-*want more?* If you are really interested and want a lot more links to look through, please see this ever-growing [Google Doc](https://docs.google.com/document/d/18FC2w3mGdhKw7BdQLZSKmLqHTYjf0aQreySBRHRRusc/edit?usp=sharing)
+*want more?* 
+
+If you are really interested and want a lot more links to look through, please see this ever-growing [Google Doc](https://docs.google.com/document/d/18FC2w3mGdhKw7BdQLZSKmLqHTYjf0aQreySBRHRRusc/edit?usp=sharing)
