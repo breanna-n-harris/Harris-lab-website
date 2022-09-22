@@ -13,18 +13,27 @@ Along with students and collaborators, my lab is currently pursing several proje
 
 **Current Specific Projects**
 1.	What is the role of tectal CRF in multisensory feeding-related behavior?
+2.	
 a.	Funding: [NSF]( https://www.nsf.gov/awardsearch/showAward?AWD_ID=1656734&HistoricalAwards=false) 
+
 b.	Collaborators: [Dr. Jim Carr; TTU]( https://www.depts.ttu.edu/biology/people/Faculty/carrjames/)
+
 c.	Species: *Xenopus laevis* 
 
 2.	What roles do diet, sex, and genotype play in the onset and development of Alzheimer’s disease pathophysiology, HPA axis function, and behavior?
+3.	
 a.	Funding: NIH ([NIA]( https://reporter.nih.gov/search/UDXFwv0PBEaBF7tjLzgshQ/project-details/8879647); [NCCIH]( https://reporter.nih.gov/search/9vnZFixckUacguQ8Rh3uFQ/project-details/9755643))
+
 b.	Collaborators: [Dr. Paul Soto; Louisiana State University]( https://www.lsu.edu/hss/psychology/faculty/cognitive/soto.php), [Dr. Naima Moustaid-Moussa; TTU]( https://www.depts.ttu.edu/hs/ns/moustaid-moussa.php), [Dr. Latha Ramalingam; Syracuse]( https://falk.syr.edu/people/ramalingam-latha/), [Dr. Alena Savonenko; Johns Hopkins School of Medicine]( https://www.hopkinsmedicine.org/research/advancements-in-research/fundamentals/profiles/alena-savonenko) 
+
 c.	Species: APPswePS1dE9 amyloidogenic transgenic mouse model of Alzheimer’s disease. 
 
 3.	What aspects cause individuals with minoritized identities to persist or desist in STEM? 
+4.	
 a.	Funding: [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2027130)
+
 b.	Collaborators: [Dr. Elizabeth Sharp; TTU](https://www.depts.ttu.edu/hs/hdfs/sharp.php); [Dr. Jaclyn Canas-Carrell; TTU]( https://www.entx.ttu.edu/dr.-jaclyn-canas-carrell.html); [Dr. Dana Weiser; TTU]( https://www.depts.ttu.edu/hs/hdfs/weiser.php); [Dr. Amelia Talley; TTU]( https://www.depts.ttu.edu/psy/people/atalley/)
+
 c.	Framework: Conference grant to run the [#WhyNotMeSTEM](https://www.depts.ttu.edu/stem/whynotmestem/index.php) conference in Lubbock, TX
 
 **Starter Projects**
