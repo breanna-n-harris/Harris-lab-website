@@ -1,7 +1,7 @@
 ---
-title: '#WhyNotMeSTEM Conference'
+title: WhyNotMeSTEM Conference
 
-event: '#WhyNotMeSTEM Conference'
+event: WhyNotMeSTEM Conference
 event_url: [https://example.org](https://www.depts.ttu.edu/stem/whynotmestem/index.php)
 
 location: Overton Hotel
@@ -12,14 +12,14 @@ address:
   postcode: '79401'
   country: United States
 
-summary: '#WhyNotMeSTEM'
+summary: WhyNotMeSTEM
 abstract: 'This was an NSF funded, interactive, multidisciplinary, intimate, hands-on, and engaged conference with the goal of identifying and executing actionable steps to make STEM more inclusive. The framework of the project featered a holistic, developmental response to promote diversity in STEM'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2022-05-22T00:00:00Z'
 date_end: '2022-05-25T00:00:00Z'
-all_day: true
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2022-09-22T00:00:00Z'
