@@ -8,6 +8,7 @@ title: Prospective Students
 **Now Accepting Graduate Students for 2023!**
 
 *Texas Tech and DBS*
+
 More information about applying to grad school in the Department of Biological Sciences at Texas Tech can be found on the [TTU Biology Website](http://www.depts.ttu.edu/biology/Graduate/graduatestudies.php). Students will apply to the [graduate school](https://www.depts.ttu.edu/gradschool/admissions/howtoapply.php) and then the application will be forwarded to the Department of Biological Sciences. Faculty must agree to sponor or support an application when it comes to our department, so it is important to discuss opportunities and projects with your potential gradutate mentor. There is a fee to apply to TTU Grad School, if this is a concern, talk with Dr. Harris. The Department of Biological Sciences supports graduate students through Teaching Assistant positions (TAs) during the fall and spring semesters. These TA positions are guaranteed for Master’s students for 3 years and for Doctoral students for 5 years. Summer funding and additional pay bumps are contingent on external grant support, and in some cases fellowships. 
 
 Graduate students are encouraged to apply before December 1 to be eligible for several internal fellowships to supplement the TA stipend.
@@ -35,12 +36,13 @@ If you'd like to start a conversation to determine if we would be a good match, 
 
 **Undergraduate Students**
 
-Undergraduate students play a large and important role in my lab. My students routinely take major leadership roles in the research, present findings at local and national meetings, and co-author papers.  I am looking for dedicated, motivated, mature, and critically thinking undergraduate students to join our lab team.
+Undergraduate students play a large and important role in my lab. My students routinely take major leadership roles in the research, present findings at local and national meetings, and co-author papers. I very much enjoy mentoring students in the lab. I am looking for dedicated, motivated, mature, and critically thinking undergraduate students to join our lab team.
+
 Lab work is exciting and rewarding, but it also takes a lot of time, energy, commitment, and dedication. Students in training are expected to show up on time; complete assigned tasks; ask questions when they arise; put in honest effort; respect the lab, the animals, and their labmates (including Dr. Harris); complete and follow required TTU trainings; keep a lab notebook; and practice their critical thinking skills.  Research, scientific writing, and lab work are difficult. Things will not always go as planned. Failure and constructive criticism are commonplace in science and are necessary for the production of quality work and for the advancement of the field. Please do not be discouraged if you receive critical feedback on your work, performance, or writing; the scientific process is difficult and takes practice. If you stay in science you will continue to get critical feedback for the rest of your career. 
 
 You can take as much or as little as you want from this experience, but please do keep in mind that the lab has basic expectations and a continuing position is not guaranteed. The more you put into this experience, the more you will get in return. I have high standards and I expect you to be on time, hard-working, organized, responsible, efficient, and accountable. These standards are not in place to be a burden, but are necessary for the completion of accurate and sound science. Integrity and ethics in science are of upmost importance and having an efficient and organized lab is absolutely necessary. Every task and every procedure is important, even if it does not seem that way initially.  Research requires one to be extremely detail-oriented and organized. Research demands attention and time, and some tasks are more fun/interesting than others. In the lab, everyone does everything; no one gets to do the “showy” work all the time. The more you show you can handle the “boring” stuff, the more responsibility you will be given.
 
-Still interested? Fantastic! Please email me for an application.
+**Still interested? Fantastic! Please email me for an application.**
 
 Please note that students can work in my lab under a variety of mechanisms, including: 
   * Course credit (Bio 4300/4100-079; 1 or 3 hr option)
