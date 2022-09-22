@@ -6,5 +6,5 @@ My overall research program is founded on **two complementary central questions*
 
 3.	how do individual variation (e.g., sensory perception, genotype, diet, sex, life history stage), and interactions with the biotic and abiotic environment alter physiological and behavioral responses to stressors? Both questions are important for understanding animal life histories, ecological interactions, and evolutionary trade-offs, and are also relevant to human health and disease.
 
-![centralqs](https://user-images.githubusercontent.com/58483740/191397173-6d26eedd-76b4-485c-9343-6c522f435f44.jpg)
-![centralqs2](https://user-images.githubusercontent.com/58483740/191397180-e1fa36b5-63ab-4e52-a9f7-f71daad95f1b.jpg)
+![centralquestions](https://user-images.githubusercontent.com/58483740/191635702-d4bbf6d1-a4d1-4f05-8a9c-a5d984c9ac8a.jpg)
+
