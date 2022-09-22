@@ -5,7 +5,7 @@ title: Prospective Students
 view: compact
 
 # Optional header image (relative to `assets/media/` folder).
-banner:"Interested? Awesome! Click below to find out more!"
+banner:
   caption: "Interested? Awesome! Click below to find out more!"
   image: 
       filename:'wordcloud1.jpg'
