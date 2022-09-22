@@ -1,15 +1,5 @@
 ---
 title: Prospective Students
-
-# Listing view
-view: compact
-
-# Optional header image (relative to `assets/media/` folder).
-banner:
-  caption: "Interested? Awesome! Click below to find out more!"
-  image: 
-      filename:'wordcloud1.jpg'
-
 ---
 
 <!--more-->
