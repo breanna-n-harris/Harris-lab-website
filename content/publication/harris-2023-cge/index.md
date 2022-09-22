@@ -6,8 +6,8 @@ authors:
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
-date: '2022-09-22T00:00:00Z'
-doi: ''
+date: '2023-01-01T00:00:00Z'
+doi: '10.1016/j.ygcen.2022.114126'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-01-01T00:00:00Z'
