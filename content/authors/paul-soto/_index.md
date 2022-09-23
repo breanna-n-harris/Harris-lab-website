@@ -1,7 +1,7 @@
 ---
 title: Paul Soto, Ph.D.
 role: Louisiana State University
-avatar_filename: soto
+avatar_filename: avatar
 bio: Department of Psychology
 social:
   - display:
