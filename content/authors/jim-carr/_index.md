@@ -9,6 +9,12 @@ social:
     link: mailto:james.carr@ttu.edu
     icon_pack: fas
     icon: envelope
+  - display:
+      header: false
+    link: https://scholar.google.com/citations?user=W_b2-2cAAAAJ&hl=en&oi=ao
+    icon_pack: ai
+    icon: google-scholar
+
 education:
   courses:
     - course: Ph.D.
@@ -18,6 +24,6 @@ superuser: false
 user_groups:
   - Collaborators
 ---
-*A﻿dd information here*
+
 
 
