@@ -1,6 +1,6 @@
 ---
 title: Breanna Harris, Ph.D.
-role: Assitant Professor
+role: Assistant Professor
 avatar_filename: avatar.jpg.jpg
 bio: I am a behavioral endocrinologist studying how organisms physiologically
   and behaviorally respond to and cope with challenges (stressors).
