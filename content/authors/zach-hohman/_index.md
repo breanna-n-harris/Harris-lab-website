@@ -25,7 +25,7 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Principal Investigators
+  - Collaborators
 highlight_name: false
 ---
 Research in my lab has a broad foci on: 1) the role that group processes and intergroup relations play in risk taking, attitude change, and persuasion; 2) the motivational role played by self-uncertainty in attitude change, group behavior, intergroup relations, and self-conception 3) influence processes within and between groups; 4) the structure of self-conception and identity in group and intergroup contexts; and 5) on physiological and biological processes related to attitude change and group processes.
