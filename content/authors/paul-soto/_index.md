@@ -9,6 +9,12 @@ social:
     link: mailto:soto1@lsu.edu
     icon_pack: fas
     icon: envelope
+  - display:
+      header: false
+    link: https://scholar.google.com/citations?user=QcNW7UAAAAAJ&hl=en&oi=ao
+    icon_pack: ai
+    icon: google-scholar
+
 education:
   courses:
     - course: Ph.D.
