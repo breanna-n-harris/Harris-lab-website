@@ -19,9 +19,15 @@ The above concepts were fully displayed during the COVID19 pandemic. COVID19 upe
 
 *read*
 
+Gosztyla, M. L., Kwong, L., Murray, N. A., Williams, C. E., Behnke, N., Curry, P., ... & Yamoah, M. A. (2021). Responses to 10 common criticisms of anti-racism action in STEMM. PLOS Computational Biology, 17(7), e1009141. [link](https://doi.org/10.1371/journal.pcbi.1009141)
+
 Harris, B.N., McCarthy, P.C., Wright, A.M., Schutz, H., Boersma, K.S., Shepherd, S.L., Manning, L.A., Malisch, J.L., Ellington, R.M. (2020). From panic to pedagogy: Using online active learning to promote inclusive instruction in ecology and evolutionary biology courses and beyond. Ecology and Evolution, 10 (22), 12581-12612. [link](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6915) 
 
 Malisch, J.L., Harris, B.N., Sherrer, S.M., Lewis, K.A., Shepherd, S.L., McCarthy, P.C., Spott, J.L., Karam, E.P., Moustaid-Moussa, N., Calarco, J.M., Ramalingam, L., Talley, A.E., Canas-Carrell, J.E., Ardon-Dryer, K., Weiser, D.A., Bernal, X.E., Deitloff, J. (2020). Opinion: In the wake of COVID-19, academia needs new solutions to ensure gender equity. Proceedings of the National Academy of Sciences, 117, 15378-15381. [link](https://www.pnas.org/doi/abs/10.1073/pnas.2010636117)
+
+Tseng, M., El-Sabaawi, R. W., Kantar, M. B., Pantel, J. H., Srivastava, D. S., & Ware, J. L. (2020). Strategies and support for Black, Indigenous, and people of colour in ecology and evolutionary biology. Nature Ecology & Evolution, 4(10), 1288-1290. [link](https://www.nature.com/articles/s41559-020-1252-0)
+
+Wanelik, K. M., Griffin, J. S., Head, M. L., Ingleby, F. C., & Lewis, Z. (2020). Breaking barriers? Ethnicity and socioeconomic background impact on early career progression in the fields of ecology and evolution. Ecology and Evolution, 10(14), 6870-6880. [link](https://onlinelibrary.wiley.com/doi/10.1002/ece3.6423)
 
 Asai, D. J. (2020). Race matters. Cell, 181(4), 754-757. [link](https://www.sciencedirect.com/science/article/pii/S0092867420303378) 
 
@@ -34,6 +40,16 @@ Holman, Key and Kreitzer (2019). Evidence of Bias in Standard Evaluations of Tea
 Asplund, M., & Welle, C. G. (2018). Advancing science: How bias holds us back. Neuron, 99(4), 635-639. [link](https://www.sciencedirect.com/science/article/pii/S0896627318306433) 
 
 Stevens, K.R., Masters, K.S., Imoukhuede, P.I., Haynes, K.A., Setton, L.A., Cosgriff-Hernandez, E., Bell, M.A.L., Rangamani, P., Sakiyama-Elbert, S.E., Finley, S.D. and Willits, R.K., 2021. Fund black scientists. Cell, 184(3), 561-565. [link](https://www.sciencedirect.com/science/article/pii/S0092867421000118)
+
+Esposito, L. A., Daly, M., Fujita, M. K., Gorneau, J. A., Rapacciuolo, G., Rocha, L., ... & Bell, R. C. (2022). A new framework for assessing the contributions of professionals in the natural sciences. Bulletin of the Society of Systematic Biologists, 8332.[link](https://ssbbulletin.org/article/view/8332)
+
+O’Brien, L. T., Bart, H. L., & Garcia, D. M. (2020). Why are there so few ethnic minorities in ecology and evolutionary biology? Challenges to inclusion and the role of sense of belonging. Social Psychology of Education, 23(2), 449-477. [link](https://link.springer.com/article/10.1007/s11218-019-09538-x)
+
+Miriti, M. N. (2020). The elephant in the room: race and STEM diversity. BioScience, 70(3), 237-242. [link](https://doi.org/10.1093/biosci/biz167)
+
+Davies, S. W., Putnam, H. M., Ainsworth, T., Baum, J. K., Bove, C. B., Crosby, S. C., ... & Bates, A. E. (2021). Promoting inclusive metrics of success and impact to dismantle a discriminatory reward system in science. PLoS biology, 19(6), e3001282. [link](https://doi.org/10.1371/journal.pbio.3001282)
+
+Fulweiler, R. W., Davies, S. W., Biddle, J. F., Burgin, A. J., Cooperdock, E. H., Hanley, T. C., ... & Ziegler, M. (2021). Rebuild the Academy: Supporting academic mothers during COVID-19 and beyond. PLoS biology, 19(3), e3001100. [link](https://doi.org/10.1371/journal.pbio.3001100)
 
 *listen*
 
