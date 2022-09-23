@@ -45,4 +45,6 @@ design:
   columns: '1'
 ---
 
-Have a question or want to find us? Please see the contact info below. 
+Have a question or want to find us? Please see the contact info below. We are located in Lubbock in West Texas. It is dry and hot here, but we have a vibrant campus community and cost of living is relativley cheap. 
+
+Texas Tech University is a [Hispanic Serving Institution](https://www.depts.ttu.edu/diversity/institutional-diversity/hispanic-serving/), [a 5-Star Pride campus](https://today.ttu.edu/posts/2021/05/Stories/texas-tech-earns-second-straight-five-star-ranking-on-national-inclusivity-index), a [First-Gen Forward Advisory Instituion](https://today.ttu.edu/posts/2021/06/Stories/texas-tech-university-receives-first-gen-forward-advisory-institution-designation), we have a [Military and Veterans Program](https://www.depts.ttu.edu/mvp/welcome_mission.php), we have a [Black Cultural Center](https://www.depts.ttu.edu/diversity/Black_Cultural_Center/), an [Institute for Latina/o Studies](https://www.depts.ttu.edu/artsandsciences/diversity_inclusion/institute_latina-o_studies/new_institute_for_latina-o_studies_announced_2021.php), and we are a ["Tier 1" Very High Research Activity campus as per the Carnegie Classification](https://www.ttu.edu/about/).
