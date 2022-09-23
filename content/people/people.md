@@ -21,6 +21,8 @@ content:
     - Grad Students
     - Undergraduate Students
     - Alumni
+    - Collaborators
+    
 design:
   show_interests: false
   show_role: true
