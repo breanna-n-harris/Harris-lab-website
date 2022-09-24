@@ -1,6 +1,6 @@
 ---
-title: Zachary Hohman Ph.D.
-role: Associate Professor
+title: Zachary Hohman, Ph.D.
+role: Associate Professor, Department of Psychological Sciences
 avatar_filename: avatar
 bio:  The goal of my research is to integrate basic cognitive processes into social interactive processes, societal processes, individual process, and internal processes that explain individual health behavior.
 social:
