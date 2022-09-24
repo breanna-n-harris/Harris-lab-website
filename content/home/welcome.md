@@ -15,4 +15,4 @@ design:
 
 <br>
 
-Welcome to the **Harris Lab** at Texas Tech University! We study the interaction among hormones, behaviors, and stressors in a variety of critters. The lab is run by Dr. Breanna Harris and student play a large and important role on our team. Come see what we've been up to!
+Welcome to the **Harris Lab** at Texas Tech University! We study the interaction among hormones, behaviors, and stressors in a variety of critters. The lab is run by Dr. Breanna Harris and students play a large and important role on our team. Come see what we've been up to!
