@@ -17,6 +17,6 @@ education:
       year: 2014
 superuser: false
 user_groups:
-  - Collaborators
+  - Alumni
 ---
 Giuli was a member of the Harris & Soto labs from 2016-2018 and was part of the mouse team. 
