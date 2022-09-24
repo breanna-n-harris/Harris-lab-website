@@ -1,6 +1,6 @@
 ---
 title: Andrew Littlefield, Ph.D.
-role: Assistant Professor, Department of Psychological Sciences
+role: Associate Professor, Department of Psychological Sciences
 avatar_filename: avatar
 bio: Research from my laboratory largely focuses on further elucidating the mechanisms that contribute to substance use disorders (SUDs), primarily alcohol use disorders (AUDs), across the lifespan.
 social:
