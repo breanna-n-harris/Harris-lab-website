@@ -1,6 +1,6 @@
 ---
 title: Amelia Talley, Ph.D.
-role: Assistant Professor, Department of Psychological Sciences | Associate Dean for Diversity, Equity, & Inclusion
+role: Associate Professor, Department of Psychological Sciences | Associate Dean for Diversity, Equity, & Inclusion
 avatar_filename: avatar
 bio: Research in the S.H.A.R.C. lab is generally concerned with examining how threats to one's self-concept and stigmatization influence self-regulation strategies and, in turn, the affective and physical health of marginalized group members. 
 social:
