@@ -1,8 +1,8 @@
 ---
 title: Jonathan Singer, Ph.D.
-role: Assistant Professor
+role: Assistant Professor, Department of Psychological Sciences
 avatar_filename: avatar
-bio: Department of Psychological Sciences. Dr. Singer dedicates his research and clinical work to improving the  psychological health of patient-caregiver dyads who have a life limiting illness. 
+bio: Dr. Singer dedicates his research and clinical work to improving the  psychological health of patient-caregiver dyads who have a life limiting illness. 
 social:
   - display:
       header: false
@@ -16,10 +16,10 @@ social:
     icon: envelope
 organizations:
   - name: Texas Tech University
-    url: https://www.depts.ttu.edu/biology/
+    url: https://jonathansinger3.wixsite.com/my-site
 education:
   courses:
-    - course: Ph.D. 
+    - course: Ph.D. Clinical Psychology
       institution: University of Nevada, Reno
       year: 2021
 email: ""
