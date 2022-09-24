@@ -1,26 +1,22 @@
-
----
-organizations:
-  - name: Texas Tech University
-    url: ""
-superuser: false
-authors:
-  - giuliana-dimarco
-title: "Giuliana DiMarco"
-role: Texas Tech University Honors College|Department of Biological Sciences
-bio: Undergraduate researcher 2016-2018 - frog team
-interests: []
+title: Giuliana DiMarco, B.S.
+avatar_filename: avatar
+bio: 
 social:
-  - icon: envelope
-    icon_pack: fas
+  - display:
+      header: false
     link: mailto:giuliana.dimarco@rutgers.edu
+    icon_pack: fas
+    icon: envelope
+organizations:
+  - name: Rutgers University
+    url: http://www.menalab.org/lab-members
 education:
   courses:
-    - course: B.S.
+    - course: B.S. Biology
       institution: Texas Tech University
-      year: "2018"
-email: ""
+      year: 2014
+superuser: false
 user_groups:
-  - Alumni
+  - Collaborators
 ---
-*Add information here*
+Giuli was a member of the Harris & Soto labs from 2016-2018 and was part of the mouse team. 
