@@ -29,7 +29,7 @@ main:
     url: dei
     weight: 90
   - name: Letters of Rec
-    url: LettersofRec
+    url: Letters of Rec
     weight: 100
   - name: Contact
     url: contact
