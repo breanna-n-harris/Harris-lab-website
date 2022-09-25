@@ -17,4 +17,4 @@ design:
 
 Welcome to the **Harris Lab** at Texas Tech University! We study the interaction among hormones, behaviors, and stressors in a variety of critters. The lab is run by Dr. Breanna Harris and students play a large and important role on our team. Come see what we've been up to!
 
-Looking for a spot on the team? Dr. Harris **does** plant to take 1-2 graduate students for fall 2023. All undergraduate spots are currenlty full, but I am looking for ~30 students to serve as Undergraduate Learning Assistants for Anatomy & Physiology II in spring 2023. See News tab for details.
+Looking for a spot on the team? Dr. Harris **does** plan to take 1-2 graduate students for fall 2023. All undergraduate spots are currenlty full, but I am looking for ~30 students to serve as Undergraduate Learning Assistants for Anatomy & Physiology II in spring 2023. See News tab for details.
