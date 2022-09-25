@@ -9,7 +9,7 @@ authors:
   - alena-savonenko
   - paul-soto
 author_notes:
-  - 'Equal contribution'
+  - ''
 date: '2023-01-01T00:00:00Z'
 doi: '10.1016/j.ygcen.2022.114126'
 
