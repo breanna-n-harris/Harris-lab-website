@@ -17,5 +17,5 @@ superuser: false
 user_groups:
   - Alumni
 ---
-Kaylee was a member of the Harris & Soto labs from 2018-2020 and was part of the mouse team.
+Kaylee was a member of the Harris lab from 2018-2020 and was part of the mouse team.
 
