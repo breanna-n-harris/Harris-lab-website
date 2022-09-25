@@ -14,7 +14,7 @@ education:
   courses:
     - course: B.S. Biology
       institution: Texas Tech University
-      year: 2014
+      year: 2018
 superuser: false
 user_groups:
   - Alumni
