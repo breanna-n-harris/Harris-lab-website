@@ -4,6 +4,8 @@ authors:
   - admin
   - breanna-roberts
   - giuliana-dimarco
+  - zenobia-okwunwanne
+  - kaylee-alers
   - alena-savonenko
   - paul-soto
 author_notes:
