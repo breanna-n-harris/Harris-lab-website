@@ -2,6 +2,10 @@
 title: 'Hypothalamic-pituitary-adrenal (HPA) axis activity and anxiety-like behavior during aging: A test of the glucocorticoid cascade hypothesis in amyloidogenic APPswe/PS1dE9 mice'
 authors:
   - admin
+  - breanna-roberts
+  - giuliana-dimarco
+  - alena-savonenko
+  - paul-soto
 author_notes:
   - 'Equal contribution'
 date: '2023-01-01T00:00:00Z'
