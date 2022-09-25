@@ -1,3 +1,4 @@
+---
 title: Giuliana DiMarco, B.S.
 avatar_filename: avatar
 bio: 
