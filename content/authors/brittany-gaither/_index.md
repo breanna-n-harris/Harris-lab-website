@@ -3,6 +3,8 @@ title: Brittany Gaither, B.S.
 avatar_filename: avatar
 bio: 
 social:
+-display:
+  header: false
     link: https://www.linkedin.com/in/brittany-gaither-795459107/
     icon_pack: fab
     icon: linkedin
