@@ -1,7 +1,6 @@
 ---
 title: Brittany Gaither, B.S.
 avatar_filename: avatar
-bio: 
 social:
 -display:
   header: false
