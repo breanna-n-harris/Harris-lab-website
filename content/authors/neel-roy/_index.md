@@ -1,5 +1,5 @@
 ---
-title: Giuliana DiMarco, B.S.
+title: Neel Roy, B.S.
 avatar_filename: avatar
 bio: 
 social:
