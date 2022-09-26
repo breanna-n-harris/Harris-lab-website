@@ -3,11 +3,6 @@ title: Jordan Myers
 avatar_filename: avatar
 bio: 
 social:
-  - display:
-      header: false
-    link: 
-    icon_pack: fab
-    icon: linkedin
 education:
   courses:
     - course: 
