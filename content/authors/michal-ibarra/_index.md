@@ -1,5 +1,5 @@
 ---
-title: Michal Ibarra, B.S.
+title: Michal Ibarra
 avatar_filename: avatar
 bio: 
 social:
