@@ -1,6 +1,6 @@
 ---
 title: Abigail Pyne
-role: Texas Tech University 
+role:  Davis College of Agricultural Science and Natural Resources Management | Texas Tech University
 avatar_filename: avatar
 bio: Research student since 2022 - frog team
 social:
