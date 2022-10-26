@@ -42,7 +42,7 @@ Lab work is exciting and rewarding, but it also takes a lot of time, energy, com
 
 You can take as much or as little as you want from this experience, but please do keep in mind that the lab has basic expectations and a continuing position is not guaranteed. The more you put into this experience, the more you will get in return. I have high standards and I expect you to be on time, hard-working, organized, responsible, efficient, and accountable. These standards are not in place to be a burden, but are necessary for the completion of accurate and sound science. Integrity and ethics in science are of upmost importance and having an efficient and organized lab is absolutely necessary. Every task and every procedure is important, even if it does not seem that way initially.  Research requires one to be extremely detail-oriented and organized. Research demands attention and time, and some tasks are more fun/interesting than others. In the lab, everyone does everything; no one gets to do the “showy” work all the time. The more you show you can handle the “boring” stuff, the more responsibility you will be given.
 
-**Still interested? Fantastic! Please email me for an application.**
+**Still interested? Fantastic! Please download the application [here](https://docs.google.com/document/d/1zKBT_N1p-hS4Fc9zS8fBe5gcQHr3_a0r/edit?usp=sharing&ouid=118142569107834417142&rtpof=true&sd=true).**
 
 Please note that students can work in my lab under a variety of mechanisms, including: 
   * Course credit (Bio 4300/4100-079; 1 or 3 hr option)
