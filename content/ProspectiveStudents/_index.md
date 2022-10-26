@@ -51,6 +51,8 @@ Please note that students can work in my lab under a variety of mechanisms, incl
   * Undergraduate Research Scholars (separate application through the Honor’s College)
   * Work Study (separate application)
   * Part of other grants/funding mechanisms. 
+ 
+ For general research opportunities for undergrads at TTU, please see [here](https://docs.google.com/document/d/1k7_oRxpB82YxNPArfpcbleXVuBcrAyZg/edit?usp=sharing&ouid=118142569107834417142&rtpof=true&sd=true)
 
 Please note, I typically require at least a 1-yr commitment and 6-15 hrs/week from students when they join the lab. 
 
