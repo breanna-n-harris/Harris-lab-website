@@ -11,7 +11,7 @@ Since joining the Department of Biological Sciences at TTU in 2013, I have taugh
 3) Anatomy and Physiology II (ZOOL 2404; online, face-to-face)
 4) Peer Mentoring in Human Physiology (BIOL 4301-079; online, face-to-face) 
 
-I was the recipient of the Most Influential Teacher or Mentor at Texas Tech (2019), Largest Impact on Student Learning and Experience (2018), and the Apple Polishing Teaching Award (2014, 2020). In 2019, I was inducted into the TTU Teaching Academy and in 2020 was the recipient of the TTU President’s Excellence in Teaching Award. During the 2021-2022 year, I was a participant in the Institute for Inclusive Excellence; the theme was antiracist pedagogy and inclusive syllabi. Additionally, I routinely publish physiology case studies with students in the Peer Mentoring in Human Physiology course; 31 differnt students have been coauthors on peer-reviewed, published case studies. 
+I was the recipient of the Most Influential Teacher or Mentor at Texas Tech (2019), Largest Impact on Student Learning and Experience (2018), and the Apple Polishing Teaching Award (2014, 2020). In 2019, I was inducted into the TTU Teaching Academy and in 2020 was the recipient of the TTU President’s Excellence in Teaching Award. During the 2021-2022 year, I was a participant in the Institute for Inclusive Excellence; the theme was antiracist pedagogy and inclusive syllabi. Additionally, I routinely publish physiology case studies with students in the Peer Mentoring in Human Physiology course; 31 different students have been coauthors on peer-reviewed, published case studies. 
 
 Before coming to TTU, I taught at The Claremont Colleges in Southern California, and at the University of California, Riverside.
 
