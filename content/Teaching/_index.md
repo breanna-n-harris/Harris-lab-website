@@ -30,7 +30,7 @@ One recent seminar at the TLPDC fundamentally changed my mindset about my teachi
 
 Harris, B.N., McCarthy, P.C., Wright, A.M., Schutz, H., Boersma, K.S., Shepherd, S.L., Manning, L.A., Malisch, J.L. and Ellington, R.M., 2020. From panic to pedagogy: Using online active learning to promote inclusive instruction in ecology and evolutionary biology courses and beyond. Ecology and evolution, 10(22), 12581-12612.
 
-Want to read a shortened blog version of the above paper publisehd at British Ecological Society Teaching and Learning Group? see [here](https://besteachingandlearning.wordpress.com/2022/02/03/from-panic-to-pedagogy-making-online-education-more-active-and-inclusive/)
+Want to read a shortened blog version of the above paper published at British Ecological Society Teaching and Learning Group? see [here](https://besteachingandlearning.wordpress.com/2022/02/03/from-panic-to-pedagogy-making-online-education-more-active-and-inclusive/)
 
 Want to watch a talk covering the above paper that we presented at the TLPDC? see [here](https://youtu.be/atNwWChLYdc)
 
