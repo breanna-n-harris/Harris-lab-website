@@ -24,7 +24,9 @@ Along with students and collaborators, my lab is currently pursing several proje
 
    a. Funding: [NIH, NIAAA](https://reporter.nih.gov/search/pV6m49-blkmDrjjWHjhvyw/project-details/10742318)
 
-   b. Collaborators: [Dr. Amelia Talley; TTU](https://www.depts.ttu.edu/psy/people/atalley/), [Dr. Zachary Hohman, TTU](https://www.depts.ttu.edu/psy/people/zhohman/), [r. Andrew Littlefield, TTU](https://www.depts.ttu.edu/psy/people/alittlefield/)
+   b. Collaborators: [Dr. Amelia Talley; TTU](https://www.depts.ttu.edu/psy/people/atalley/), [Dr. Zachary Hohman, TTU](https://www.depts.ttu.edu/psy/people/zhohman/), [Dr. Andrew Littlefield, TTU](https://www.depts.ttu.edu/psy/people/alittlefield/)
+
+   c. Species: humans
 
 **Previously Funded Projects**
 1.	What is the role of tectal CRF in multisensory feeding-related behavior?
