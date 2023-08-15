@@ -9,7 +9,7 @@ authors:
   - Pumtiwitt C McCarthy
   - Jessica L Spott
   - Elizabeth P Karam
-  - Naima-Moustaid-Moussa
+  - Naima-mm
   - Jessica McCrory Calarco
   - Latha Ramalingam
   - Amelia E Talley
