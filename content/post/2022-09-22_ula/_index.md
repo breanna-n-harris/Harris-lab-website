@@ -2,7 +2,7 @@
 title: Undergrad Learning Assistant applications for spring are open!
 date: 2022-09-21
 image:
-  focal_point: top
+  focal_point: bottom
 ---
 Are you interested in Physiology and/or Human Health? 
 Need a 3-credit hour biology course for Spring, 2023? 
