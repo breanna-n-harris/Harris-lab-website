@@ -1,5 +1,5 @@
 ---
-title: Now Accepting Graduate Students!
+title: Now Accepting Graduate Students for 2023-2024!
 date: 2023-08-01T22:17:01.714Z
 image:
   filename: featured.jpg
