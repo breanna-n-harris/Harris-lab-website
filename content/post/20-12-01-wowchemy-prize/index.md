@@ -1,6 +1,6 @@
 ---
 title: Now Accepting Graduate Students!
-date: 2022-09-19T22:17:01.714Z
+date: 2023-08-01T22:17:01.714Z
 image:
   filename: featured.jpg
 ---
