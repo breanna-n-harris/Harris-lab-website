@@ -29,7 +29,8 @@ Along with students and collaborators, my lab is currently pursing several proje
    c. Species: humans
 
 3.  Reducing suicide risk among aging caregivers of persons with AD/ADRD: Adapting, implementing, and evaluating Dialectical Behavior Therapy skills training interventions.
-    a. Funding: NIH, NIA
+  
+    a . Funding: NIH, NIA
 
     b. Collaborators: [Dr. Jonathan Singer, TTU](https://www.depts.ttu.edu/psy/people/jsinger/); [Dr. Sean Mitchell, TTU](https://www.depts.ttu.edu/psy/people/smitchell/); [Dr. Andrew Littlefield, TTU](https://www.depts.ttu.edu/psy/people/alittlefield/); [Dr. Jason Van Allen, TTU](https://www.depts.ttu.edu/psy/people/jvanallen/); [Dr. Megan Renna, University of Southern Missisppi](https://usm-petlab.weebly.com/)
 
