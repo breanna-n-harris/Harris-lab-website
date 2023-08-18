@@ -1,7 +1,7 @@
 ---
 title: Sean Mitchell, Ph.D.
 role: Department of Psychological Sciences
-avatar_filename: sean
+avatar_filename: sean.jpg
 bio: My research focuses on suicide risk and prevention among high-risk individuals, such as individuals with severe mental illness and individuals involved in the criminal justice system.
 social:
   - display:
