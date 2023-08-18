@@ -24,10 +24,17 @@ Along with students and collaborators, my lab is currently pursing several proje
 
    a. Funding: [NIH, NIAAA](https://reporter.nih.gov/search/pV6m49-blkmDrjjWHjhvyw/project-details/10742318)
 
-   b. Collaborators: [Dr. Amelia Talley; TTU](https://www.depts.ttu.edu/psy/people/atalley/), [Dr. Zachary Hohman, TTU](https://www.depts.ttu.edu/psy/people/zhohman/), [Dr. Andrew Littlefield, TTU](https://www.depts.ttu.edu/psy/people/alittlefield/)
+   b. Collaborators: [Dr. Amelia Talley, TTU](https://www.depts.ttu.edu/psy/people/atalley/); [Dr. Zachary Hohman, TTU](https://www.depts.ttu.edu/psy/people/zhohman/); [Dr. Andrew Littlefield, TTU](https://www.depts.ttu.edu/psy/people/alittlefield/)
 
    c. Species: humans
 
+3.  Reducing suicide risk among aging caregivers of persons with AD/ADRD: Adapting, implementing, and evaluating Dialectical Behavior Therapy skills training interventions.
+    a. Funding: NIH, NIA
+
+    b. Collaborators: [Dr. Jonathan Singer, TTU](https://www.depts.ttu.edu/psy/people/jsinger/); [Dr. Sean Mitchell, TTU](https://www.depts.ttu.edu/psy/people/smitchell/); [Dr. Andrew Littlefield, TTU](https://www.depts.ttu.edu/psy/people/alittlefield/); [Dr. Jason Van Allen, TTU](https://www.depts.ttu.edu/psy/people/jvanallen/); [Dr. Megan Renna, University of Southern Missisppi](https://usm-petlab.weebly.com/)
+
+    c. Species: humans
+    
 **Previously Funded Projects**
 1.	What is the role of tectal CRF in multisensory feeding-related behavior?
 
@@ -49,7 +56,7 @@ Along with students and collaborators, my lab is currently pursing several proje
 
     a.	Funding: [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2027130)
 
-    b.	Collaborators: [Dr. Elizabeth Sharp; TTU](https://www.depts.ttu.edu/hs/hdfs/sharp.php); [Dr. Jaclyn Canas-Carrell; TTU]( https://www.entx.ttu.edu/dr.-jaclyn-canas-carrell.html); [Dr. Dana Weiser; TTU]( https://www.depts.ttu.edu/hs/hdfs/weiser.php); [Dr. Amelia Talley; TTU]( https://www.depts.ttu.edu/psy/people/atalley/)
+    b.	Collaborators: [Dr. Elizabeth Sharp, TTU](https://www.depts.ttu.edu/hs/hdfs/sharp.php); [Dr. Jaclyn Canas-Carrell, TTU]( https://www.entx.ttu.edu/dr.-jaclyn-canas-carrell.html); [Dr. Dana Weiser, TTU]( https://www.depts.ttu.edu/hs/hdfs/weiser.php); [Dr. Amelia Talley, TTU]( https://www.depts.ttu.edu/psy/people/atalley/)
 
     c.	Framework: Conference grant to run the [#WhyNotMeSTEM](https://www.depts.ttu.edu/stem/whynotmestem/index.php) conference in Lubbock, TX
 
@@ -66,5 +73,6 @@ These are projects that have been started and are in various stages of completen
 7.	Relationship among GHLOS, COMT, FAAH, BMI and cognitive function (humans)
 8.	Do glucocorticoids inhibit parental behavior? Theoretical and empirical perspectives (review)
 9.	Relationship among corticosterone, ghrelin, affective behavior, and amyloid beta in aged male and female APPswePS1dE9 mice
+10.	Replication of Harris studies on FAAH, CRFR1, FKBP5 SNPs using a different human aging database. 
 
 ![lab_topics](https://user-images.githubusercontent.com/58483740/191763604-9c9d5137-bbc9-4d56-b430-6d836ab30a74.jpg)
