@@ -8,11 +8,6 @@ social:
     link: mailto:emily.larson@ttu.edu
     icon_pack: fas
     icon: envelope
-  - display:
-      header: false
-    link: 
-    icon_pack: fab
-    icon: linkedin
 organizations:
   - name: Texas Tech University
     url: 
