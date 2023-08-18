@@ -1,3 +1,4 @@
+---
 title: Jason Van Allen, Ph.D.
 role: Department of Psychological Sciences
 avatar_filename: avatar
@@ -19,3 +20,5 @@ education:
 superuser: false
 user_groups:
   - Collaborators
+
+---
