@@ -20,9 +20,9 @@ Along with students and collaborators, my lab is currently pursing several proje
 
    c. Species: humans
 
-2. Internal Sources of Minority Stress and Alcohol Consumption
+2. Identity, stressors, and health-realted behaviors
 
-   a. Funding: [NIH, NIAAA](https://reporter.nih.gov/search/pV6m49-blkmDrjjWHjhvyw/project-details/10742318)
+   a. Funding: NIH, NIAAA
 
    b. Collaborators: [Dr. Amelia Talley, TTU](https://www.depts.ttu.edu/psy/people/atalley/); [Dr. Zachary Hohman, TTU](https://www.depts.ttu.edu/psy/people/zhohman/); [Dr. Andrew Littlefield, TTU](https://www.depts.ttu.edu/psy/people/alittlefield/)
 
