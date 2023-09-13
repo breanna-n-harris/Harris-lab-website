@@ -2,8 +2,8 @@
 title: Emily Larson
 role: PhD Student - Department of Biological Sciences
 avatar_filename: avatar
-bio: 
-interests:
+bio: ""
+interests: ""
 social:
   - display:
       header: false
