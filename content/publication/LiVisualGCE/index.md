@@ -5,8 +5,6 @@ authors:
   - Justin R. Keene
   - admin
   - jim-carr
-author_notes:
-  - ''
 date:'2023-06-01T00:00:00Z'
 doi:'10.1016/j.ygcen.2023.114246'
 
