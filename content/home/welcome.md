@@ -17,4 +17,12 @@ design:
 
 Welcome to the **Harris Lab** at Texas Tech University! We study the interaction among hormones, behaviors, and stressors in a variety of critters. The lab is run by Dr. Breanna Harris and students play a large and important role on our team. Come see what we've been up to!
 
-Looking for a spot on the team? Dr. Harris **does** plan to take 1-2 graduate students for fall 2024. All undergraduate spots are currenlty full, but please see the [prospective students](/ProspectiveStudents) tab for how to keep your application on file.
+Looking for a spot on the team? We are recruiting! 
+
+**Grad students** - Dr. Harris **does** plan to take 1-2 graduate students for fall 2024. 
+
+**Undergraduate Students** - Hiring 2-3 undergraduate students to start in Jan, 2024.
+
+**Lab Research Aide** - Full-time position, $16-20/hr based on experience, training provided, opportunity to publish. Application portal is open. 
+
+Interested in any of the above? Great!  Please see [prospective students](/ProspectiveStudents) tab for how to apply.
