@@ -14,13 +14,14 @@ Along with students and collaborators, my lab is currently pursing several proje
 
 **Currently Funded Projects**
 1. Examining Effects of Respite and Individual Clinical Interventions on Biopsychosocial Outcomes in Informal Caregivers of Dementia Patients
+   
    a. Funding: Garrison Family Foundation
 
    b. Collaborators: [Dr. Jonathan Singer; TTU](https://www.depts.ttu.edu/psy/people/jsinger/)
 
    c. Species: humans
 
-2. Identity, stressors, and health-realted behaviors
+3. Identity, stressors, and health-realted behaviors
 
    a. Funding: NIH, NIAAA
 
@@ -28,7 +29,7 @@ Along with students and collaborators, my lab is currently pursing several proje
 
    c. Species: humans
 
-3.  Reducing suicide risk among aging caregivers of persons with AD/ADRD: Adapting, implementing, and evaluating Dialectical Behavior Therapy skills training interventions.
+4.  Reducing suicide risk among aging caregivers of persons with AD/ADRD: Adapting, implementing, and evaluating Dialectical Behavior Therapy skills training interventions.
   
     a . Funding: NIH, NIA
 
