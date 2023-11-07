@@ -56,7 +56,7 @@ If you'd like to start a conversation to determine if we would be a good match, 
 
 **Undergraduate Students**
 
-We are hiring! I'm looking for 2-3 new students to start in Jan, 2024. One student will work on human sample processing (part of an NIH funded grant project) and the other will work on frog behavioral analysis (part of a completed NSF funded project). 
+We are hiring! I'm looking for 2-3 new students to start in Jan, 2024. One student will work on human sample processing (part of an NIH funded grant project) and the other will work on frog behavioral analysis (part of a completed NSF funded project). For a bit more on those projects, see [Projects](/projects) tab and/or check out the [lab publications](https://scholar.google.com/citations?user=Hv8jp00AAAAJ&hl=en&oi=ao)  
 
 Undergraduate students play a large and important role in my lab. My students routinely take major leadership roles in the research, present findings at local and national meetings, and co-author papers. I very much enjoy mentoring students in the lab. I am looking for dedicated, motivated, mature, and critically thinking undergraduate students to join our lab team.
 
