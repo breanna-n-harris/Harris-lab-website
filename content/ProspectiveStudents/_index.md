@@ -12,7 +12,8 @@ Full-time, in-person (TTU campus), $16-20/hr based on experience, training provi
 
 To apply and see full details, please use the TTU system [website](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5635&PageType=JobDetails&jobid=829391) 
 Materials:
--Cover Letter describing: 
+
+Cover Letter describing: 
   - 1) how the applicant meets required and preferred qualifications
     2) relevant experiences
     3) research and/or career goals
