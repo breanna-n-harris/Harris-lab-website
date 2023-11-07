@@ -17,8 +17,8 @@ Materials:
     1) how the applicant meets required and preferred qualifications
     2) relevant experiences
     3) research and/or career goals
-  - Names and contact information for three Professional/Personal References
-  - Resume / CV
+- Names and contact information for three Professional/Personal References
+- Resume / CV
 
 **************************
 **Graduate Students**
