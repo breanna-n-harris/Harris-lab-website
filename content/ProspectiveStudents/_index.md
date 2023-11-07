@@ -3,6 +3,23 @@ title: Prospective Students
 ---
 
 <!--more-->
+**************************
+**Lab Research Aide**
+
+Position description: Performs specialized work in conducting and supporting original research into organismal stress physiology and behavior. Work is performed under general supervision with evaluation based on the accomplishment of assigned objectives and the overall effectiveness of projects and tasks. Will work with all members of the lab team, from undergraduate students to the lab PI. Adherence to robust safety practices and compliance with all applicable health and safety regulations are responsibilities of all employees.
+
+Full-time, in-person (TTU campus), $16-20/hr based on experience, training provided, opportunity to publish, work as part of a lab team.
+
+To apply and see full details, please use the TTU system [website](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5635&PageType=JobDetails&jobid=829391) 
+Materials:
+-Cover Letter describing: 
+  - 1) how the applicant meets required and preferred qualifications
+    2) relevant experiences
+    3) research and/or career goals
+  - Names and contact information for three Professional/Personal References
+  - Resume / CV
+
+**************************
 **Graduate Students**
 
 **Now Accepting Graduate Students for Fall 2024!**
@@ -33,6 +50,8 @@ If you'd like to start a conversation to determine if we would be a good match, 
 2. CV
 
 3. A writing sample of your choosing
+
+*********************************
 
 **Undergraduate Students**
 
