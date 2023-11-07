@@ -2,7 +2,7 @@
 title: New lab publication!
 date: 2022-09-21
 image:
-  focal_point: top
+  focal_point: bottom
 ---
 Here we determined if behavior and both baseline and post-stressor corticosterone change during aging in the APPswePS1dE9 mouse model of Alzheimer's disease
 
