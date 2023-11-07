@@ -16,7 +16,7 @@ education:
       Year: 2023
 superuser: false
 user_groups:
-  - Alumi
+  - Alumni
 ---
 *A﻿dd information here*
 
