@@ -4,21 +4,7 @@ title: Prospective Students
 
 <!--more-->
 **************************
-**Lab Research Aide**
 
-Position description: Performs specialized work in conducting and supporting original research into organismal stress physiology and behavior. Work is performed under general supervision with evaluation based on the accomplishment of assigned objectives and the overall effectiveness of projects and tasks. Will work with all members of the lab team, from undergraduate students to the lab PI. Adherence to robust safety practices and compliance with all applicable health and safety regulations are responsibilities of all employees.
-
-Full-time, in-person (TTU campus), $16-20/hr based on experience, training provided, opportunity to publish, work as part of a lab team.
-
-To apply and see full details, please use the TTU system [website](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5635&PageType=JobDetails&jobid=829391) 
-
-Materials:
-- Cover Letter describing: 
-    1) how the applicant meets required and preferred qualifications
-    2) relevant experiences
-    3) research and/or career goals
-- Names and contact information for three Professional/Personal References
-- Resume / CV
 
 **************************
 **Graduate Students**
@@ -39,12 +25,13 @@ Graduate students are encouraged to apply before December 1 to be eligible for s
 
 My mentoring style is flexible, I am more hands-on initially and then transition to a more hands-off approach as students make progress and gain experience. I also work with each student to tailor a mentoring regimen that fits their career goals. I have a Harris Lab Expectations and Handbook (to see handbook, go here: <https://tinyurl.com/59f4sadk>) which provides explicit information for students and details what they can expect from me; we discuss and then all students sign this upon entering my lab. This handbook is a living document and lab group discussion is used to edit and update this document as needed. I have recently updated the handbook with a greater focus on inclusivity, equity, and antiracist practice, as recommended by various published articles (e.g., [Chaudhary, V. B., & Berhe, A. A. (2020). Ten simple rules for building an antiracist lab](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008210)).
 
-If you'd like to start a conversation to determine if we would be a good match, please email the below documents to me (breanna.n.harris@ttu.edu). Please also take a look at the [Projects](/projects) tab and at [Harris, 2020](https://www.sciencedirect.com/science/article/pii/S0016648019304071?via%3Dihub) (if you need a copy, let me know).
+If you'd like to start a conversation to determine if we would be a good match, please email the below documents to me (breanna.n.harris@ttu.edu). Please also take a look at the [Projects](/projects) tab and please read the following article [Harris, 2020]([https://www.sciencedirect.com/science/article/pii/S0016648019304071?via%3Dihub](https://drive.google.com/file/d/1Pr2UPql_HFB7PQy_HnWPR_LZn4DCxcI0/view?usp=sharing)).
 
 1. Cover letter containing:
 
   * Your educational experiences and/or background, including GPA (adjusted to a 4.0 scale) and what program you are pursuing at TTU (see M.S. and Ph.D. options [here](https://www.depts.ttu.edu/biology/academics/graduate/programs/); 1-2 paragraphs)
   * Why you chose to contact me/why you are interested in my lab (1-2 paragraphs)
+  * What part of Harris, 2020 (above) did you find most interesting? (1 paragraph)
   * Your research interests and ideas (the more specific you can be, the better; 1-2 paragraphs)
   * A description of your included writing sample (e.g., if the writing is from a class essay, provide enough detail for me to understand the context of the        assignment) and why you chose that writing sample.
 
@@ -56,7 +43,7 @@ If you'd like to start a conversation to determine if we would be a good match, 
 
 **Undergraduate Students**
 
-We are hiring! I'm looking for 2-3 new students to start in Jan, 2024. One student will work on human sample processing (part of an NIH funded grant project) and the other will work on frog behavioral analysis (part of a completed NSF funded project). For a bit more on those projects, see [Projects](/projects) tab and/or check out the [lab publications](https://scholar.google.com/citations?user=Hv8jp00AAAAJ&hl=en&oi=ao)  
+I am not hiring at the moment, but I always keep applications on file for a year. If you're interested, please do complete an applicaiton and email me. 
 
 Undergraduate students play a large and important role in my lab. My students routinely take major leadership roles in the research, present findings at local and national meetings, and co-author papers. I very much enjoy mentoring students in the lab. I am looking for dedicated, motivated, mature, and critically thinking undergraduate students to join our lab team.
 
@@ -70,7 +57,7 @@ Please note that students can work in my lab under a variety of mechanisms, incl
   * Course credit (Bio 4300/4100-079; 1 or 3 hr option)
   * CISER (separate application process)
   * TrUE (separate application process)
-  * Undergraduate Research Scholars (separate application through the Honor’s College)
+  * Undergraduate Research Scholars (separate application through the Honors College)
   * Work Study (separate application)
   * Part of other grants/funding mechanisms. 
  
