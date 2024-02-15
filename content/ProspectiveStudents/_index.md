@@ -9,13 +9,13 @@ title: Prospective Students
 **************************
 **Graduate Students**
 
-**Now Accepting Graduate Students for Fall 2024!**
+**Dr. Harris will likely accept 1 Graduate Student in the Fall 2024 cycle (Fall 2025 start date)!**
 
 *Texas Tech and DBS*
 
 More information about applying to grad school in the Department of Biological Sciences at Texas Tech can be found on the [TTU Biology Website](http://www.depts.ttu.edu/biology/Graduate/graduatestudies.php). Students will apply to the [graduate school](https://www.depts.ttu.edu/gradschool/admissions/howtoapply.php) and then the application will be forwarded to the Department of Biological Sciences. Faculty must agree to sponor or support an application when it comes to our department, so it is important to discuss opportunities and projects with your potential gradutate mentor. There is a fee to apply to TTU Grad School, if this is a concern, talk with Dr. Harris. The Department of Biological Sciences supports graduate students through Teaching Assistant positions (TAs) during the fall and spring semesters. These TA positions are guaranteed for Master’s students for 3 years and for Doctoral students for 5 years. Summer funding and additional pay bumps are contingent on external grant support, and in some cases fellowships. 
 
-The Biology Departmant has a single admissions deadline and top students who apply will be put into a competitive pool for on-campus fellowships.
+The Biology Departmant has a single admissions deadline (Jan 15th) and top students who apply will be put into a competitive pool for on-campus fellowships.
 
 *Harris Lab*
 
@@ -23,7 +23,7 @@ The Biology Departmant has a single admissions deadline and top students who app
 
 *What you can expect*: vibrant new lab with start up funds – including summer support; rigorous and exciting science; intellectual freedom; equitable and inclusive leadership; active mentoring and support of multiple career paths.
 
-My mentoring style is flexible, I am more hands-on initially and then transition to a more hands-off approach as students make progress and gain experience. I also work with each student to tailor a mentoring regimen that fits their career goals. I have a Harris Lab Expectations and Handbook (to see handbook, go here: <https://tinyurl.com/59f4sadk>) which provides explicit information for students and details what they can expect from me; we discuss and then all students sign this upon entering my lab. This handbook is a living document and lab group discussion is used to edit and update this document as needed. I have recently updated the handbook with a greater focus on inclusivity, equity, and antiracist practice, as recommended by various published articles (e.g., [Chaudhary, V. B., & Berhe, A. A. (2020). Ten simple rules for building an antiracist lab](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008210)).
+My mentoring style is flexible, I am more hands-on initially and then transition to a more hands-off approach as students make progress and gain experience. I also work with each student to tailor a mentoring regimen that fits their career goals. I have a Harris Lab Expectations and Handbook (to see handbook, go [here](https://drive.google.com/file/d/1v9m3BePGFY13Un8T0jlZvQWJtQLVcJ6z/view?usp=sharing) which provides explicit information for students and details what they can expect from me; we discuss and then all students sign this upon entering my lab. This handbook is a living document and lab group discussion is used to edit and update this document as needed. I have recently updated the handbook with a greater focus on inclusivity, equity, and antiracist practice, as recommended by various published articles (e.g., [Chaudhary, V. B., & Berhe, A. A. (2020). Ten simple rules for building an antiracist lab](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008210)).
 
 If you'd like to start a conversation to determine if we would be a good match, please email the below documents to me (breanna.n.harris@ttu.edu). Please also take a look at the [Projects](/projects) tab and please read the following article [Harris, 2020](https://drive.google.com/file/d/1Pr2UPql_HFB7PQy_HnWPR_LZn4DCxcI0/view?usp=sharing).
 
