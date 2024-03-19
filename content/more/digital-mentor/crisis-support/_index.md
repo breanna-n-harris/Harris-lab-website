@@ -5,9 +5,7 @@ date: 2022-09-26
 If you need assistance of any kind, please reach out! People on campus want you all to be safe, healthy, and happy. Files in this folder are reference sheets - open the links to find lists of numbers and websites
 
 <!--more-->
-<!--JKH went in and added some additional text, but i am not too sre how to change font size so i comprimised-->
-
-<sup>
+<!--JKH went in and added some additional text, but i am not too sure how to change font size so i comprimised-->
 
 - Alcohol resource sheet 2018 – RISE: [Link](https://www.depts.ttu.edu/rise/alcohol.php)
 
@@ -28,10 +26,4 @@ If you need assistance of any kind, please reach out! People on campus want you 
 - National Alliance on Mental Illness (NAMI): [Link](https://www.nami.org/Home)
   
 - Suicide and suicide risk - Nature Disease Primer: [Link](https://pubmed.ncbi.nlm.nih.gov/31649257/)
-  </sup>
-  <sub>
-    - Turecki, G., Brent, D. A., Gunnell, D., O'Connor, R. C., Oquendo, M. A., Pirkis, J., & Stanley, B. H. (2019). Suicide and suicide risk. _Nature reviews. Disease
-
-      primers, 5(1), 74. https://doi.org/10.1038/s41572-019-0121-0_
-
-</sub>
+    - Turecki, G., Brent, D. A., Gunnell, D., O'Connor, R. C., Oquendo, M. A., Pirkis, J., & Stanley, B. H. (2019). Suicide and suicide risk. _Nature reviews. Disease primers, 5(1), 74. https://doi.org/10.1038/s41572-019-0121-0_
