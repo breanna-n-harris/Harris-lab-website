@@ -6,6 +6,6 @@ If you need assistance of any kind, please reach out! People on campus want you 
 
 <!--more-->
 
-Under construction but will appear soon
+We will put stuff here
 
 
