@@ -1,5 +1,5 @@
 ---
-title: Deaing with Failure
+title: Dealing with Failure
 date: 2022-09-26
 ---
 There is nothing wrong with failing something. Failure is totally a part of life and this happens to everyone.
