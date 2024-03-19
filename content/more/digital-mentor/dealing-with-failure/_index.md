@@ -13,7 +13,7 @@ There is nothing wrong with failing something. Failure is totally a part of life
 - Failure in Science and Why It Is a Good Thing – 2018: [Link](https://muse.jhu.edu/article/701865)
 - Scientific progress is built on failure – 2019: [Link](https://www.nature.com/articles/d41586-019-00107-y)
 - Why Science Needs Failure to Succeed – 2015: [Link](https://www.sciencefriday.com/segments/why-science-needs-failure-to-succeed/)
-- GROWTH MINDSET AND WHY FAILURE IS A POSITIVE WORD – 2018: [Link](https://www.cengage.com/404/)
+- GROWTH MINDSET AND WHY FAILURE IS A POSITIVE WORD – 2018: ~~[Link](https://www.cengage.com/404/)~~
   - [Updated link](https://blog.cengage.com/the-benefits-of-a-growth-mindset-dangers-of-a-fixed-mindset/)
 - Self-Compassion, Growth Mindset, and the Benefits of Failure – 2017: [Link](https://www.psychologytoday.com/us/blog/the-athletes-way/201701/self-compassion-growth-mindset-and-the-benefits-failure)
 - Stop Worrying About Failure. Focus on Mindset – 2017: [Link](https://medium.com/the-mission/stop-worrying-about-failure-focus-on-mindset-110b81f3e7b6#:~:text=Although%20people%20may%20differ%20in,only%20see%20ourselves%20as%20learning.)
