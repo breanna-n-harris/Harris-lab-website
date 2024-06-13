@@ -1,7 +1,4 @@
-<div align="center">
-  <h1 style="font-size: 36;">Homepage</h1>
-</div>
-
+# <div align="center">Homepage</div>
 
 
 Harris Lab at TTU
