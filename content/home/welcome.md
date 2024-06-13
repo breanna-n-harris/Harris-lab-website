@@ -1,10 +1,10 @@
 # <div align="center">Homepage</div>
 
 
-Harris Lab at TTU
---
-![2024-02-18 16 15 22](https://github.com/breanna-n-harris/Harris-lab-website/assets/58483740/c3e6e8b7-28d7-4e78-a747-56f2bb79dc21)
 
+
+![2024-02-18 16 15 22](https://github.com/breanna-n-harris/Harris-lab-website/assets/58483740/c3e6e8b7-28d7-4e78-a747-56f2bb79dc21)
+Harris Lab at TTU
 ---
 
 <br>
