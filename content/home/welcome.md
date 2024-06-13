@@ -2,7 +2,6 @@
   <h1 style="font-size: 36px;">Homepage</h1>
 </div>
 
-Welcome to our Harris Lab website!
 
 
 Harris Lab at TTU
