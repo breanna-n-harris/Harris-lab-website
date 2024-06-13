@@ -5,7 +5,7 @@ image:
   focal_point: bottom
 layout: default
 ---
-Here we discussed the diffrent formalities of teaching and how it has can impact undergraduate classroom settings. Providing more inclusive framing with regard to sex and gender is beneficial for students, science and medicine, and for accurately representing the diversity found across the tree of life.
+Here we discussed the diffrent formalities of teaching and how it has can impact a undergraduate classroom setting. Providing more inclusive frmework with regard to sex and gender is beneficial for students, science and medicine, and for accurately representing the diversity found across the tree of life.
 <!--more-->
 
 Contrats to undergraduate co-authors Breanna Roberts, A Kelsey Lewis, Sam Sharpe, Teri Orr, Christopher Martine, and Chloe Josefson!
