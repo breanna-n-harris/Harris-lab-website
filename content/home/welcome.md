@@ -1,17 +1,14 @@
+<div align="center">
+  <h1 style="font-size: 36px;">Homepage</h1>
+</div>
+
+Welcome to our Harris Lab website!
+
+
+Harris Lab at TTU
+--
 ![2024-02-18 16 15 22](https://github.com/breanna-n-harris/Harris-lab-website/assets/58483740/c3e6e8b7-28d7-4e78-a747-56f2bb79dc21)
----
-widget: hero
-widget_id: homepage
-headless: true
-weight: 10
-title: Harris Lab at TTU
-hero_media: welcome.jpg
-design:
-  columns: "1"
-  css_style: null
-  css_class: null
-  background:
-    image: ""
+
 ---
 
 <br>
