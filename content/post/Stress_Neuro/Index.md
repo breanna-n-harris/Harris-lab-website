@@ -5,7 +5,6 @@ image:
   focal_point: bottom
 ---
 Dr. Harris and her graduate student, Emily Larson, attened the 2024 Stress Neurobiology Confrence in Boston, MA.
-![Collage_SNW](https://github.com/breanna-n-harris/Harris-lab-website/blob/main/content/post/Stress_Neuro/featured.jpg)
 <!--more-->
 
 Dr. Harris and Emily had an amazing time, and were able to both independently collaborate with other researchers over the impacts of stress. During the confrence, Dr. Harris presented "Stress and tradeoffs: how individual identity influenced academic productivity during COVID-19" (Harris et al., 2024).  Both came back from Boston with a fresh start of ideas, and are eager to continue exploring the feild of stress and endocrinology.
