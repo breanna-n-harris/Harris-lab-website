@@ -2,7 +2,7 @@
 title: Stress Neurobiology Workshop 2024!
 date: 2024-06-07
 image:
-  filename: featured.jpg
+  filename: content/post/Stress_Neuro/featured.jpg
 ---
 Dr. Harris and her graduate student, Emily Larson, attened the 2024 Stress Neurobiology Confrence in Boston, MA.
 <!--more-->
