@@ -13,6 +13,5 @@ Dr. Harris and Emily had an amazing time, and were able to both independently co
 
 [Link to Abstract Directory](https://docs.google.com/document/d/1YBes_J4gVYa3HKvws-6KeQSqHEU-e2xu0rGxlOvxNe0/edit)
 
-![Collaeg](https://github.com/breanna-n-harris/Harris-lab-website/blob/fde6c91e8f58ac71397df94f5eeb50336e90e2bf/content/post/Stress_Neuro/featured.jpg)
 ![SNW](https://images.squarespace-cdn.com/content/v1/63921ba43013422d088b1b66/bacc8baa-9fd5-4bc9-b174-d2f4d9886652/SNW+Logo.jpg?format=2500w)
 
