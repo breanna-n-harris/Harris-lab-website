@@ -1,6 +1,4 @@
 ---
-authors:
-  - jaden-hendrix
 title: Jaden Hendrix
 role: Lab Technician - Department of Biological Sciences
 avatar_filename: avatar
