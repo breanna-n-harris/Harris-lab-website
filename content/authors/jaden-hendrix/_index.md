@@ -5,7 +5,7 @@ organizations:
 superuser: false
 authors:
   - jaden-hendrix
-title: Jaden Hendix
+title: Jaden Hendrix
 role: Lab Technician
 bio: My research interests include diet-associated diseases, immunology, and endocrinology
 interests: []
