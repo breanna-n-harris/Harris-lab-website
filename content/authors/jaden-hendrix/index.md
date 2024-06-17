@@ -1,9 +1,11 @@
 ---
+authors:
+  - jaden-hendrix
 title: Jaden Hendrix
 role: Lab Technician - Department of Biological Sciences
 avatar_filename: avatar
-bio: ""
-interests: ""
+bio: My research intrests include diet-associated diseases, immunology, and endocrinology
+interests: []
 social:
   - display:
       header: false
