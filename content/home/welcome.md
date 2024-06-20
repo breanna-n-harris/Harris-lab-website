@@ -14,8 +14,8 @@ design:
 
 
 
-<div style="display: flex; align-items: center; flex-direction: column; text-align: center;">
-    <div style="flex: 1; max-width: 600px; text-align: left;">
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
         <p>Welcome to the <strong>Harris Lab</strong> at Texas Tech University! We study the interaction among hormones, behaviors, and stressors in a variety of critters. The lab is run by Dr. Breanna Harris, and students play a large and important role on our team. Come see what we've been up to!</p>
         <h3>Undergrads</h3>
         <p>We are currently full, but feel free to check back periodically for openings.</p>
