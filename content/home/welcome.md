@@ -9,7 +9,7 @@ design:
 ---
   
 
-<div style="background-color: lightgrey; padding: 10px; text-align: center;">
+<div style="background-color: lightgrey; padding: 10px; border-radius: 20px; text-align: center;">
     <h1>Homepage</h1>
 </div>
 
