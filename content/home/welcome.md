@@ -24,7 +24,7 @@ design:
         <p>Dr. Harris does plan to take 1 graduate student for fall 2025.</p>
     </div>
     <div style="flex: 0 0 auto; margin-left: 20px;">
-        <img src="https://github.com/breanna-n-harris/Harris-lab-website/assets/58483740/c3e6e8b7-28d7-4e78-a747-56f2bb79dc21" alt="Harris Lab Image" style="max-width: 1000px; height: auto;">
+        <img src="https://github.com/breanna-n-harris/Harris-lab-website/assets/58483740/c3e6e8b7-28d7-4e78-a747-56f2bb79dc21" alt="Harris Lab Image" style="max-width: 3000px; height: auto;">
     </div>
 </div>
 
