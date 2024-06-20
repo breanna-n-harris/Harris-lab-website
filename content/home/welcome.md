@@ -9,10 +9,11 @@ design:
 ---
   
 
-# <div align="center">Homepage</div>
+<div style="background-color: lightgrey; padding: 10px; text-align: center;">
+    <h1>Homepage</h1>
+</div>
 
-
-
+---
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
@@ -29,5 +30,7 @@ design:
 </div>
 
 ---
+
+
 
 {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
