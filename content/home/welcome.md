@@ -7,9 +7,15 @@ weight: 20
 design:
   columns: '1'
 ---
-  
 
-<div style="background-color: lightgrey; padding: 10px; border-radius: 20px; text-align: center;">
+  
+<style>
+    body {
+        font-family: 'Playfair Display', serif;
+    }
+</style>
+
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 20px; text-align: center;">
     <h1>Homepage</h1>
 </div>
 
