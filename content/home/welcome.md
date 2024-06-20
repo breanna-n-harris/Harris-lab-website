@@ -10,7 +10,7 @@ design:
 
 <div style="display: flex; justify-content: center; align-items: center; height: 5vh; background-color: #f0f0f0;">
     <div style="display: inline-block; background-color: #f0f0f0; padding: 20px 40px; border-radius: 20px; text-align: center;">
-        <h1 style="font-family: 'Playfair Display', serif; margin: 0;">Homepage</h1>
+        <h1 style="font-family: 'Playfair Display', serif; margin: 0;">Welcome</h1>
     </div>
 </div>
 
