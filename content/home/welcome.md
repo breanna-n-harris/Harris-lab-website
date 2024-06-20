@@ -15,9 +15,6 @@ design:
 
 
 <div style="display: flex; align-items: center;">
-    <div style="flex: 0 0 auto; margin-right: 20px;">
-        <img src="https://github.com/breanna-n-harris/Harris-lab-website/assets/58483740/c3e6e8b7-28d7-4e78-a747-56f2bb79dc21" alt="Harris Lab Image" style="max-width: 150px; height: auto;">
-    </div>
     <div style="flex: 1;">
         <h1>Harris Lab at TTU</h1>
         <p>Welcome to the <strong>Harris Lab</strong> at Texas Tech University! We study the interaction among hormones, behaviors, and stressors in a variety of critters. The lab is run by Dr. Breanna Harris, and students play a large and important role on our team. Come see what we've been up to!</p>
@@ -26,4 +23,8 @@ design:
         <h3>Grad students</h3>
         <p>Dr. Harris does plan to take 1 graduate student for fall 2025.</p>
     </div>
+    <div style="flex: 0 0 auto; margin-left: 20px;">
+        <img src="https://github.com/breanna-n-harris/Harris-lab-website/assets/58483740/c3e6e8b7-28d7-4e78-a747-56f2bb79dc21" alt="Harris Lab Image" style="max-width: 300px; height: auto;">
+    </div>
 </div>
+
