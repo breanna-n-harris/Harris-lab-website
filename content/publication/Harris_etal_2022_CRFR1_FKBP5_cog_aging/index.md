@@ -7,7 +7,6 @@ authors:
   - cody-tucker
   - callie-cambell
   - kaleb-king
-  - Garrison Institute on Aging
 author_notes:
   - ''
 date: '2022-10-01T00:00:00Z'
