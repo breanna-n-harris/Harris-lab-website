@@ -23,7 +23,7 @@ publishDate: '2024-06-03:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Neurobiology of Aging*'
+publication: '*Integrative and comparative biology*'
 publication_short: ''
 
 abstract: Inclusive teaching is teaching in a way that reaches all students in the classroom; this is beneficial for everyone and particularly for those with minoritized identities. Instructors play a critical role in scaffolding how students are exposed to and learn science content in the classroom. In this manuscript we discuss how biology instructors can make their classrooms more inclusive with regard to sex and gender diversity content. Many topics in biology are based on androcentric, heteronormative, and oppressive framing, even though those lenses are more reflective of our own history and culture than they are of the diversity we see in nature. Here, we summarize information presented in the SICB 2024 workshop titled "Incorporating sex diversity and gender inclusivity in biology undergraduate classrooms" and provide instructors with a) rationale for why inclusive teaching matters, b) guidance on how to challenge unscientific views and make their curricula more sex-diverse and gender inclusive, and c) practical and easy-to-implement strategies for discussing "contentious" topics in the classroom. Incorporation of this material will be beneficial for students, for science and medicine, and for accurately representing the diversity found across the tree of life.
