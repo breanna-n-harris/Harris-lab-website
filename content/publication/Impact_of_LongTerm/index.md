@@ -30,10 +30,10 @@ publication_types: ['2']
 publication: '*Neuroendocrinology*'
 publication_short: ''
 
-abstract:  Alzheimer’s disease (AD) alters neurocognitive and emotional function and causes dysregulation of multiple homeostatic processes. The leading AD framework pins amyloid beta plaques and tau tangles as primary drivers of dysfunction. However, many additional variables, including diet, stress, sex, age, and pain tolerance, interact in ways that are not fully understood to impact the onset and progression of AD pathophysiology. We asked: (1) does high-fat diet, compared to low-fat diet, exacerbate AD pathophysiology and behavioral decline? And, (2) can supplementation with eicosapentaenoic (EPA)-enriched fish oil prevent high-fat-diet-induced changes?
+abstract: Alzheimer’s disease (AD) alters neurocognitive and emotional function and causes dysregulation of multiple homeostatic processes. The leading AD framework pins amyloid beta plaques and tau tangles as primary drivers of dysfunction. However, many additional variables, including diet, stress, sex, age, and pain tolerance, interact in ways that are not fully understood to impact the onset and progression of AD pathophysiology. We asked: (1) does high-fat diet, compared to low-fat diet, exacerbate AD pathophysiology and behavioral decline? And, (2) can supplementation with eicosapentaenoic (EPA)-enriched fish oil prevent high-fat-diet-induced changes?
 
 # Summary. An optional shortened abstract.
-summary:  Insummary, transgenic mice were consistently more active than non-transgenic mice but did not perform worse on either cognitive task, even though we recently reported that these same transgenic mice exhibited metabolic changes and had increased amyloid beta. Mice fed high-fat diet had higher baseline and post-stressor corticosterone, but diet did not impact cognition or pain tolerance. Sex had the biggest influence, as female mice were consistently more active and had higher corticosterone than males. 
+summary: In summary, transgenic mice were consistently more active than non-transgenic mice but did not perform worse on either cognitive task, even though we recently reported that these same transgenic mice exhibited metabolic changes and had increased amyloid beta. Mice fed high-fat diet had higher baseline and post-stressor corticosterone, but diet did not impact cognition or pain tolerance. Sex had the biggest influence, as female mice were consistently more active and had higher corticosterone than males. 
 tags:
   - Source Themes
 featured: false
