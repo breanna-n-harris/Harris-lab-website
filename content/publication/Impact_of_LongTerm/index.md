@@ -41,7 +41,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: Harris_etal_2024_neuroendo_EPAdiet_AD.pdf
+url_pdf: https://github.com/breanna-n-harris/Harris-lab-website/blob/30c3d05f0ea992a3b97d296ba61a76c9f90fb003/content/publication/Impact_of_LongTerm/Harris_etal_2024_neuroendo_EPAdiet_AD.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
