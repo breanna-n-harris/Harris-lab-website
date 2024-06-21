@@ -16,7 +16,6 @@ author_notes:
 date: '2024-02-01T00:00:00Z'
 doi: '10.1159/000536586'
 
-
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-06-21T00:00:00Z'
 
@@ -30,10 +29,11 @@ publication_types: ['2']
 publication: '*Neuroendocrinology*'
 publication_short: ''
 
-abstract: Alzheimer’s disease (AD) alters neurocognitive and emotional function and causes dysregulation of multiple homeostatic processes. The leading AD framework pins amyloid beta plaques and tau tangles as primary drivers of dysfunction. However, many additional variables, including diet, stress, sex, age, and pain tolerance, interact in ways that are not fully understood to impact the onset and progression of AD pathophysiology. We asked: (1) does high-fat diet, compared to low-fat diet, exacerbate AD pathophysiology and behavioral decline? And, (2) can supplementation with eicosapentaenoic (EPA)-enriched fish oil prevent high-fat-diet-induced changes?
+abstract: Alzheimer’s disease (AD) alters neurocognitive and emotional function and causes dysregulation of multiple homeostatic processes. The leading AD framework pins amyloid beta plaques and tau tangles as primary drivers of dysfunction. However, many additional variables, including diet, stress, sex, age, and pain tolerance, interact in ways that are not fully understood to impact the onset and progression of AD pathophysiology.
+
 
 # Summary. An optional shortened abstract.
-summary: In summary, transgenic mice were consistently more active than non-transgenic mice but did not perform worse on either cognitive task, even though we recently reported that these same transgenic mice exhibited metabolic changes and had increased amyloid beta. Mice fed high-fat diet had higher baseline and post-stressor corticosterone, but diet did not impact cognition or pain tolerance. Sex had the biggest influence, as female mice were consistently more active and had higher corticosterone than males. 
+summary: In summary, transgenic mice were consistently more active than non-transgenic mice but did not perform worse on either cognitive task, even though we recently reported that these same transgenic mice exhibited metabolic changes and had increased amyloid beta. Mice fed high-fat diet had higher baseline and post-stressor corticosterone, but diet did not impact cognition or pain tolerance. Sex had the biggest influence, as female mice were consistently more active and had higher corticosterone than males. We asked, (1) does high-fat diet, compared to low-fat diet, exacerbate AD pathophysiology and behavioral decline? And, (2) can supplementation with eicosapentaenoic (EPA)-enriched fish oil prevent high-fat-diet-induced changes? 
 tags:
   - Source Themes
 featured: false
@@ -41,7 +41,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://doi.org/10.1159/000536586
+url_pdf: https://github.com/breanna-n-harris/Harris-lab-website/blob/main/content/publication/Impact_of_LongTerm/Harris_etal_2024_neuroendo_EPAdiet_AD.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
