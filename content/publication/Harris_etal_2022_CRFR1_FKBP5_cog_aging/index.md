@@ -39,7 +39,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://raw.githubusercontent.com/breanna-n-harris/Harris-lab-website/17c908fbc176ee2c24fd04dccc37713d750c7e12/content/publication/Harris_etal_2022_CRFR1_FKBP5_cog_aging/Harris_etal_2022_CRFR1_FKBP5_cog_aging.pdf
+url_pdf: https://raw.githubusercontent.com/breanna-n-harris/Harris-lab-website/97b92211441c3dd011f74dc4888efe2d0159b1b4/content/publication/Harris_etal_2022_CRFR1_FKBP5_cog_aging/Harris_etal_2022_CRFR1_FKBP5.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
