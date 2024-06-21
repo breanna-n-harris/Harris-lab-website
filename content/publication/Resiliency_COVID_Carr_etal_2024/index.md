@@ -22,7 +22,7 @@ publication_types: ['2']
 publication: '*General and Comparative Endocrinology*'
 publication_short: ''
 
-abstract: *No abstract available*
+abstract: '*No abstract available*'
 
 # Summary. An optional shortened abstract.
 summary: ""
