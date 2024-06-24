@@ -1,6 +1,6 @@
 ---
 title: Congratulations to the Harris Lab's Undergraduate on Graduating!
-date: 2024-06-07
+date: 2024-05-10
 image:
   filename: featured.jpg
 ---
