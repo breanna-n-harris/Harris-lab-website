@@ -1,5 +1,5 @@
 ---
-title: 'Eicosapentaenoic Acid Protects against Metabolic Impairments in the APPswe/PS1dE9 Alzheimer's Disease Mouse Model'
+title: "Eicosapentaenoic Acid Protects against Metabolic Impairments in the APPswe/PS1dE9 Alzheimer's Disease Mouse Model"
 authors:
   - Mahsa Yavari
   - latha-ramalingam
