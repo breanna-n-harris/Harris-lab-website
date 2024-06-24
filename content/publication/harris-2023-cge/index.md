@@ -39,7 +39,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://doi.org/10.1016/j.ygcen.2022.114126
+url_pdf: https://raw.githubusercontent.com/breanna-n-harris/Harris-lab-website/aee278cf33f774f14e0e246d62c4c91ac0019a3f/content/publication/harris-2023-cge/Harris_etal_2023_APPswe_cort_GCE_SI.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
