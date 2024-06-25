@@ -1,5 +1,5 @@
 ---
-title: "Corrigendum to “Stress hypothesis overload: 131 hypotheses exploring the role of stress in tradeoffs, transitions, and health” [Gen. Comp. Endocrinol. 288 (2020) 113355]"
+title: "Stress hypothesis overload: 131 hypotheses exploring the role of stress in tradeoffs, transitions, and health"
 authors:
   - admin
 author_notes:
@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://raw.githubusercontent.com/breanna-n-harris/Harris-lab-website/d20d9d8f5443f5e7eba5627dcff928160b3719a2/content/publication/Harris_Stress_Hypothesis_2020/Harris_2020_stress_hypotheses_with_erratum.pdf
+url_pdf: https://raw.githubusercontent.com/breanna-n-harris/Harris-lab-website/052ee72e965a9f51f05f40749d0bea2915e0a377/content/publication/Harris_Stress_Hypothesis_2020/Harris_2020_GCE_stress_hypotheses.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
