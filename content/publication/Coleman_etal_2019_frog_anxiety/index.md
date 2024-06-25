@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://raw.githubusercontent.com/breanna-n-harris/Harris-lab-website/c9c5f8151a6a5008e7c829c54d1d6a2ec5249962/content/publication/Coleman_etal_2019_frog_anxiety/Coleman_etal_2019_frog_anxiety_author_copy.pdf
+url_pdf: https://raw.githubusercontent.com/breanna-n-harris/Harris-lab-website/dfb3c64cf642f63232eb87bdd7e1330fa0f2d258/content/publication/Coleman_etal_2019_frog_anxiety/Coleman_et_al-2019-Journal_of_Comparative_Physiology_A.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
