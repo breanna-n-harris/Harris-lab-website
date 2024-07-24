@@ -48,7 +48,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://doi.org/10.1073/pnas.2010636117
+url_pdf: https://raw.githubusercontent.com/breanna-n-harris/Harris-lab-website/c4b1734f80a22dbe1a200c9ccf0e1009838ad574/content/publication/PNAS_COVID19/Malisch_etal_2020_PNAS_COVID19_Gender_equity.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
