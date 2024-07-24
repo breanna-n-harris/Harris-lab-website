@@ -22,3 +22,4 @@ email: ""
 user_groups:
   - Undergraduate Students
 ---
+My name is Jaida Morah. I’m a microbiology major hoping to go to medical school to become an allergist/immunologist! 
