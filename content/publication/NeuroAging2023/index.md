@@ -40,7 +40,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://doi.org/10.1016/j.neurobiolaging.2023.03.010
+url_pdf: https://raw.githubusercontent.com/breanna-n-harris/Harris-lab-website/51d4012322e295884eb97f113e693c86b90ff650/content/publication/NeuroAging2023/Pub_Logitudinal_Soto_etal.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
