@@ -20,7 +20,7 @@ authors:
   - Lisa Powers
   - Wendy Saltzman
   - Teri Orr
-author_notes
+author_notes:
   - ''
 date: '2024-07-09T00:00:00Z'
 doi: '10.1093/icb/icae092'
