@@ -35,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://raw.githubusercontent.com/breanna-n-harris/Harris-lab-website/dfd33672fd1a5eebb042b5e44bdde6440308b456/content/publication/Duggan_etal_2016_BEAS_predators_and_food_consumption/Duggan_etal_2016_BEAS_predators_and_food_consumption.pdf
+url_pdf: https://raw.githubusercontent.com/breanna-n-harris/Harris-lab-website/6148d46a55f65398e112719a6aaac3506fda7f7b/content/publication/Duggan_etal_2016_BEAS_predators_and_food_consumption/Duggan_etal_2016_BEAS_predators_and_food_consumption.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
