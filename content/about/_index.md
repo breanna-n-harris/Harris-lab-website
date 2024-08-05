@@ -21,7 +21,7 @@ For more information, see the [Projects](/projects) page
 
 1. What is a "good" stress response?
 
-2. Does HPA axis funciton map on to actual performance and fitness measures?
+2. Does HPA axis function map on to actual performance and fitness measures?
 
 3. What are the contexts in which we observe variation in GC-fitness relationships?
 
@@ -31,6 +31,6 @@ For more information, see the [Projects](/projects) page
 
 6. What is the impact of residual reproductive value on GC-fitness relationships?
 
-Sources for outstanding questsions: Harris, 2020; **Schoenle et al., 2018**; Lattin et al., 2016; Taff and Vitousek, 2016; Crespi et al., 2013; Breuner et al., 2008; Wingfield and Sapolsky, 2003; Ricklefs and Wikelski, 2002 
+Sources for outstanding questsions: Harris, 2020; Schoenle et al., 2018; Lattin et al., 2016; Taff and Vitousek, 2016; Crespi et al., 2013; Breuner et al., 2008; Wingfield and Sapolsky, 2003; Ricklefs and Wikelski, 2002 
   
 ![image](https://user-images.githubusercontent.com/58483740/191794930-45896934-8797-44f4-828f-ed938a457cd5.png)
