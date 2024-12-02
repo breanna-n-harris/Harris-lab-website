@@ -9,7 +9,7 @@ title: Prospective Students
 **************************
 **Graduate Students**
 
-**Dr. Harris will likely accept 1 Graduate Student in the Fall 2024 cycle (Fall 2025 start date)!**
+**Dr. Harris is not currently taking new graduate students**
 
 *Texas Tech and DBS*
 
