@@ -22,7 +22,7 @@ design:
         <h3>Undergrads</h3>
         <p>We are currently hiring someone to help on our behavioral scoring team - see the prospective students tab for more.</p>
         <h3>Grad students</h3>
-        <p>Dr. Harris does plan to take 1 graduate student for fall 2025.</p>
+        <p>Dr. Harris does not plan to take any graduate students for fall 2025.</p>
     </div>
     <div style="margin-top: 20px; text-align: center;">
         <img src="https://github.com/breanna-n-harris/Harris-lab-website/assets/58483740/c3e6e8b7-28d7-4e78-a747-56f2bb79dc21" alt="Harris Lab Image" style="max-width: 500px; height: auto;">
