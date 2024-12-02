@@ -20,7 +20,7 @@ design:
     <div style="flex: 1;">
         <p>Welcome to the <strong>Harris Lab</strong> at Texas Tech University! We study the interaction among hormones, behaviors, and stressors in a variety of critters. The lab is run by Dr. Breanna Harris, and students play a large and important role on our team. Come see what we've been up to!</p>
         <h3>Undergrads</h3>
-        <p>We are currently hiring someone to help on our behavioral scoring team - see the prospective students tab for more.</p>
+        <p>We are not currently hiring undergraduate students, but if you're interested please fill out an application - I keep them on file for a year.</p>
         <h3>Grad students</h3>
         <p>Dr. Harris does not plan to take any graduate students for fall 2025.</p>
     </div>
