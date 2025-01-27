@@ -18,10 +18,11 @@ content:
   user_groups:
     - Principal Investigators
     - Researchers
-    - Grad Students
+    - Graduate Students
     - Undergraduate Students
     - Collaborators
     - Alumni
+    
 design:
   show_interests: false
   show_role: true
