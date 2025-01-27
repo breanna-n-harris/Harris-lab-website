@@ -59,7 +59,7 @@ Please note that students can work in my lab under a variety of mechanisms, incl
   * TrUE (separate application process)
   * Undergraduate Research Scholars (separate application through the Honors College)
   * Work Study (separate application)
-  * Part of other grants/funding mechanisms. 
+  * Part of other grants/funding mechanisms.  
  
  For general research opportunities for undergrads at TTU, please see [here](https://docs.google.com/document/d/1k7_oRxpB82YxNPArfpcbleXVuBcrAyZg/edit?usp=sharing&ouid=118142569107834417142&rtpof=true&sd=true)
 
