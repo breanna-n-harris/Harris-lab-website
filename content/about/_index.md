@@ -13,15 +13,3 @@ Thus far, much of our lab work has focused on the behavioral, physiological, and
     2.	How do individual variation (e.g., sensory perception, genotype, diet, sex, life history stage), and interactions with the biotic and abiotic environment alter physiological and behavioral responses to stressors?
     
 Both questions are important for understanding animal life histories, ecological interactions, and evolutionary trade-offs, and are also relevant to human health and disease.
-
-![centralquestions](https://user-images.githubusercontent.com/58483740/191635702-d4bbf6d1-a4d1-4f05-8a9c-a5d984c9ac8a.jpg)
-
-Relatedly, we also probe the ecology (contexts, environment, interactions) and evolution (change over time and space) in the stress concept. That is how does the way in which we (researchers) view, interpret, and analyze data impact our findings? What do the lenses I use to view my data mean about what I will find? How does individual lab context, experimental design, field norms and analysis impact our understanding of stress? How did knowledge and application of the stress concept change over time? As scientists, our training, specialized niches, fields of study, places of work, routes of funding, positionality in society, and time in history all impact the way in which we ask questions, design studies, and interpret data. Given these realities, as we build and expand the field, it is imperative that we always probe assumptions and critically dissect our data and interpretations. As we know from organismal data, perceptions of (challenging) events can alter outcomes. Not only is perception key for the organism responding to challenges but it is also critical for the ones studying the response – that is the way in which experiments are designed, dependent variables are chosen, data are analyzed and interpreted, and how information is contextualized in our broader literature. We use the below framework to probe these questions.
-
-![Eco_evo_stress_concept](https://raw.githubusercontent.com/breanna-n-harris/Harris-lab-website/2af05503d4a020c75df283a506ce199354eb03d5/content/about/Eco_evo_stress_concept.jpg)
-
-For more information, see the [Projects](/projects) page
-
-
-  
-
