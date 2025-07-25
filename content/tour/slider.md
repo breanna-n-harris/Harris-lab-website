@@ -15,30 +15,38 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
+    - title: 👋 Welcome to our lab page
       content: Take a look at what we're working on...
       align: center
       background:
         position: right
         color: '#666'
         brightness: 0.7
-        media: coders.jpg
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+        media: lab_topics.jpg
+    - title: Lab research questions
+      content: 
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.7
-        media: contact.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+        media: centralqs.jpg
+    - title: Lab research questions
+      content: 
       align: right
       background:
         position: center
         color: '#333'
         brightness: 0.5
-        media: welcome.jpg
+        media: centralqs2.jpg
+    - title: Lab research 
+      content: 
+      align: right
+      background:
+        position: center
+        color: '#333'
+        brightness: 0.5
+        media: DSC_8414a.jpg
       link:
         icon: graduation-cap
         icon_pack: fas
