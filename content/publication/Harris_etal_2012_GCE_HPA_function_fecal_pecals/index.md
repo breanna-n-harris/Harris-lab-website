@@ -12,7 +12,7 @@ doi: '10.1016/j.ygcen.2012.08.026'
 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2012-10-28:00:00Z'
+publishDate: '2012-10-28T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

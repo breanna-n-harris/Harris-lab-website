@@ -15,7 +15,7 @@ doi: '10.1093/icb/icx047'
 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-06-20:00:00Z'
+publishDate: '2017-06-20T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

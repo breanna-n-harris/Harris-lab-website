@@ -1,6 +1,6 @@
 ---
 title: R15 grant from NIA funded!
-date: 2023-8-18
+date: '2023-08-18T00:00:00Z'
 image:
   focal_point: top
 ---

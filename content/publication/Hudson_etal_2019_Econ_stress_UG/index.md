@@ -15,7 +15,7 @@ doi: '10.2139/ssrn.3249793'
 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2019-03-07:00:00Z'
+publishDate: '2019-03-07T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
