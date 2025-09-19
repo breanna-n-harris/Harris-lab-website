@@ -10,7 +10,7 @@ doi: '10.1016/j.ygcen.2020.113509'
 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-05-25:00:00Z'
+publishDate: '2020-05-25T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

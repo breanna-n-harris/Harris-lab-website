@@ -12,7 +12,7 @@ doi: '10.1016/j.physbeh.2018.06.011'
 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2018-06-13:00:00Z'
+publishDate: '2018-06-13T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

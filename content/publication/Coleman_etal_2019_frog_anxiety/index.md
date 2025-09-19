@@ -14,7 +14,7 @@ doi: '10.1007/s00359-019-01351-3'
 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2019-05-29:00:00Z'
+publishDate: '2019-05-29T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

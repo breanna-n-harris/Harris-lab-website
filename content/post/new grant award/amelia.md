@@ -1,6 +1,6 @@
 ---
 title: R21 grant from NIAAA funded!
-date: 2023-8-15
+date: '2023-08-15T00:00:00Z'
 image:
   focal_point: top
 ---

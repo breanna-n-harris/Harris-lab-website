@@ -13,7 +13,7 @@ doi: '10.1086/665831'
 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2012-04-24:00:00Z'
+publishDate: '2012-04-24T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

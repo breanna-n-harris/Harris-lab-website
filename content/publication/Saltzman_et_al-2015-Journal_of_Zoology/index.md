@@ -15,7 +15,7 @@ doi: '10.1111/jzo.12211'
 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2014-11-28:00:00Z'
+publishDate: '2014-11-28T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

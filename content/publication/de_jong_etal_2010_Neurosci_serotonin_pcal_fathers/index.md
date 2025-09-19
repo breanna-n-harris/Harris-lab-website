@@ -12,7 +12,7 @@ doi: '10.1016/j.neuroscience.2010.06.012'
 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2010-09-01:00:00Z'
+publishDate: '2010-09-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
