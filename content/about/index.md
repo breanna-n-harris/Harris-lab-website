@@ -20,4 +20,4 @@ Relatedly, we also probe the ecology (contexts, environment, interactions) and e
 
 ![Eco_evo_stress_concept](https://raw.githubusercontent.com/breanna-n-harris/Harris-lab-website/2af05503d4a020c75df283a506ce199354eb03d5/content/about/Eco_evo_stress_concept.jpg)
 
-For more information, see the [Projects](/projects) page
+For more information, see the [Projects](../projects/) page
