@@ -17,7 +17,7 @@ main:
     url: projects
     weight: 50
   - name: Prospective Students
-    url: prospectivestudents
+    url: /prospectivestudents/
     weight: 60
   - name: Publications
     url: publication
