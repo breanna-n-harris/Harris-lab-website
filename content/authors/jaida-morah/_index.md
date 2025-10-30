@@ -17,9 +17,9 @@ education:
   courses:
     - course: B.S. in Microbiology
       institution: Texas Tech University
-      year: Expected Graduation Date - Fall 2024
+      year: 2024
 email: ""
 user_groups:
-  - Undergraduate Students
+  - Almuni
 ---
 My name is Jaida Morah. I’m a microbiology major hoping to go to medical school to become an allergist/immunologist! 
