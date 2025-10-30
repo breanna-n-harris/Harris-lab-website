@@ -6,7 +6,7 @@ superuser: false
 authors:
   - emily-larson
 title: Emily Larson
-role: PhD Student - Department of Biological Sciences
+role: MS Student - Department of Biological Sciences
 bio: My research interests include...
 interests: []
 social:
@@ -22,4 +22,4 @@ email: ""
 user_groups:
   - Graduate Students
 ---
-I grew up in Minnesota. There I attended the University of St. Thomas where I earned my B.S. in Neuroscience. During undergrad, I did research in behavioral neuroendocrinology. Through a program on campus, I was able to work with inner-city schools to teach kids about college. At TTU, I am looking forward to learning more about experimental design, conducting research, and presenting information in an engaging way. I joined the lab team in Fall, 2023 as a PhD student.
+I grew up in Minnesota. There I attended the University of St. Thomas where I earned my B.S. in Neuroscience. During undergrad, I did research in behavioral neuroendocrinology. Through a program on campus, I was able to work with inner-city schools to teach kids about college. At TTU, I am looking forward to learning more about experimental design, conducting research, and presenting information in an engaging way. I joined the lab team in Fall, 2023.
