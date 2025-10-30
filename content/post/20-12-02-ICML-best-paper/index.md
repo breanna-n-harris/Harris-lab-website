@@ -1,16 +1,31 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
-date: 2020-12-02
+title: New lab publication!
+date: 2022-09-21
 image:
-  focal_point: 'top'
+  focal_point: bottom
 ---
-
-Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
+Here we determined if behavior and both baseline and post-stressor corticosterone change during aging in the APPswePS1dE9 mouse model of Alzheimer's disease
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+Take aways: 
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+Contrats to undergraduate co-authors Breanna Roberts, Giuliana DiMarco, Kaylee Alers Maldonado, and Zenobia Okwunwanne!
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+* Consistent with glucocorticoid cascade hypothesis, baseline cort increased with age.
+
+* Overall, tg mice had higher post-stressor, but not baseline, cort than non-tg mice.
+
+* Across genotypes, females had higher (baseline and post-stressor) cort than males.
+
+* Tg females had higher Aβ and showed more anxiety-like behavior than tg males.
+
+* No robust correlations, suggesting outcomes are not related on the individual level.
+
+* Despite robust accumulaiton of amyloid beta in the hippocampus and cortex, male and female APPswePS1dE9 transgenic mice do not differ robustly from their non-transgenic littermates in physiological, endocrine, and behavioral measures at the range of ages studied here.
+
+[Link to article](https://www.sciencedirect.com/science/article/pii/S0016648022001514)
+
+Harris, B. N., Roberts, B. R., DiMarco, G. M., Maldonado, K. A., Okwunwanne, Z., Savonenko, A. V., & Soto, P. L. (2022). Hypothalamic-pituitary-adrenal (HPA) axis activity and anxiety-like behavior during aging: a test of the glucocorticoid cascade hypothesis in amyloidogenic APPswe/PS1dE9 mice. General and Comparative Endocrinology, 114126.
+
+![GCE_Harris_etal](https://user-images.githubusercontent.com/58483740/191639894-c40e4134-dfb1-40c9-b39d-e55563d598b7.jpg)
