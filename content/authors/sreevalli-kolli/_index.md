@@ -13,8 +13,9 @@ education:
   courses:
     - course: B.S.
       institution: Texas Tech University
+      year: 2025
 superuser: false
 user_groups:
-  - Undergraduate Students
+  - Alumni
 ---
-Research student since 2022 - frog team
+Research student since 2022 - frog team. Sreevalli graduated with Highest Honors from TTU in May, 2025. She plans to attend medical school. 
