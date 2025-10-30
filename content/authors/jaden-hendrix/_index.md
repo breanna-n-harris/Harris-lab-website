@@ -23,6 +23,6 @@ education:
       year: 2023
 email: ""
 user_groups:
-  - Researchers
+  - Alumni
 ---
 Hey! My name is Jaden Hendrix, and I am from San Angelo, Tx but lived in Lubbock for most of my life. I got my A.S. in Pre-Physical Therapy from South Plains Collage and finished my B.S. in Biology at TTU. I was fortunate enough during my undergraduate degree to be a part of the TrUE Scholars, Plains Bridges to the Baccalaureate, and Louis Stokes Alliances for Minority Participation (BAT-LSAMP) programs that allowed me to do undergraduate research at TTU in Cancer Biology. I am currently a Research Aide/Lab Technician for the Harris Lab and have loved every second of it! I am very eager to continue my learning in Stress and Endocrinology each day that I am here. With an amazing team, and PI, I will continue to excel in my field and hopefully one day go back for a Masters or Ph.D.!
